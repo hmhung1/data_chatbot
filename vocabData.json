@@ -218,5 +218,874 @@
             "sức chứa",
             "chấn động"
         ]
+    },
+    {
+        "word": "achievement",
+        "phonetic": "/əˈtʃiːvmənt/",
+        "definition": "thành tựu",
+        "options": [
+            "sự cố gắng",
+            "thành tựu",
+            "bất hạnh",
+            "lễ hội"
+        ]
+    },
+    {
+        "word": "development",
+        "phonetic": "/dɪˈvɛləpmənt/",
+        "definition": "sự phát triển",
+        "options": [
+            "khám phá",
+            "sự phát triển",
+            "môi trường",
+            "nguy hiểm"
+        ]
+    },
+    {
+        "word": "relationship",
+        "phonetic": "/rɪˈleɪʃənʃɪp/",
+        "definition": "mối quan hệ",
+        "options": [
+            "mối quan hệ",
+            "bằng chứng",
+            "thanh toán",
+            "nỗi buồn"
+        ]
+    },
+    {
+        "word": "organization",
+        "phonetic": "/ˌɔːɡənaɪˈzeɪʃən/",
+        "definition": "tổ chức",
+        "options": [
+            "tổ chức",
+            "lễ hội",
+            "khó khăn",
+            "đánh giá"
+        ]
+    },
+    {
+        "word": "technology",
+        "phonetic": "/tɛkˈnɒlədʒi/",
+        "definition": "công nghệ",
+        "options": [
+            "công nghệ",
+            "cảm hứng",
+            "nghiên cứu",
+            "thành phố"
+        ]
+    },
+    {
+        "word": "explanation",
+        "phonetic": "/ˌɛkspləˈneɪʃən/",
+        "definition": "giải thích",
+        "options": [
+            "giải thích",
+            "khiêu khích",
+            "sự kích thích",
+            "nơi nghỉ ngơi"
+        ]
+    },
+    {
+        "word": "solution",
+        "phonetic": "/səˈluːʃən/",
+        "definition": "giải pháp",
+        "options": [
+            "giải pháp",
+            "phức tạp",
+            "thân thiện",
+            "lỗi lầm"
+        ]
+    },
+    {
+        "word": "contribution",
+        "phonetic": "/ˌkɒntrɪˈbjuːʃən/",
+        "definition": "sự đóng góp",
+        "options": [
+            "sự cản trở",
+            "sự đóng góp",
+            "giấc mơ",
+            "chạy trốn"
+        ]
+    },
+    {
+        "word": "research",
+        "phonetic": "/rɪˈsɜːrtʃ/",
+        "definition": "nghiên cứu",
+        "options": [
+            "thực hiện",
+            "nghiên cứu",
+            "bối rối",
+            "tổ chức"
+        ]
+    },
+    {
+        "word": "conference",
+        "phonetic": "/ˈkɒnfərəns/",
+        "definition": "hội nghị",
+        "options": [
+            "hội nghị",
+            "khó khăn",
+            "truyền cảm hứng",
+            "chất lượng"
+        ]
+    },
+    {
+        "word": "strategy",
+        "phonetic": "/ˈstrætədʒi/",
+        "definition": "chiến lược",
+        "options": [
+            "chiến lược",
+            "nổi bật",
+            "nỗi buồn",
+            "tình yêu"
+        ]
+    },
+    {
+        "word": "analysis",
+        "phonetic": "/əˈnæləsɪs/",
+        "definition": "phân tích",
+        "options": [
+            "phân tích",
+            "thể loại",
+            "chắc chắn",
+            "khó khăn"
+        ]
+    },
+    {
+        "word": "majority",
+        "phonetic": "/məˈdʒɔːrɪti/",
+        "definition": "đa số",
+        "options": [
+            "độ tuổi",
+            "đa số",
+            "nỗ lực",
+            "sự cân bằng"
+        ]
+    },
+    {
+        "word": "commitment",
+        "phonetic": "/kəˈmɪtmənt/",
+        "definition": "cam kết",
+        "options": [
+            "sự can đảm",
+            "sự cam kết",
+            "cảm xúc",
+            "trở ngại"
+        ]
+    },
+    {
+        "word": "investment",
+        "phonetic": "/ɪnˈvɛstmənt/",
+        "definition": "đầu tư",
+        "options": [
+            "sự đầu tư",
+            "món quà",
+            "mô hình",
+            "khó khăn"
+        ]
+    },
+    {
+        "word": "behavior",
+        "phonetic": "/bɪˈheɪvjər/",
+        "definition": "hành vi",
+        "options": [
+            "hành vi",
+            "tính cách",
+            "nguy hiểm",
+            "bình tĩnh"
+        ]
+    },
+    {
+        "word": "situation",
+        "phonetic": "/ˌsɪtʃuˈeɪʃən/",
+        "definition": "tình huống",
+        "options": [
+            "tình huống",
+            "dự đoán",
+            "nổi bật",
+            "kết quả"
+        ]
+    },
+    {
+        "word": "consciousness",
+        "phonetic": "/ˈkɒnʃəsnəs/",
+        "definition": "ý thức",
+        "options": [
+            "thành công",
+            "ý thức",
+            "sự hỗ trợ",
+            "hành động"
+        ]
+    },
+    {
+        "word": "opportunity",
+        "phonetic": "/ˌɒpəˈtjuːnɪti/",
+        "definition": "cơ hội",
+        "options": [
+            "hệ thống",
+            "cơ hội",
+            "trách nhiệm",
+            "tình cảm"
+        ]
+    },
+    {
+        "word": "equality",
+        "phonetic": "/ɪˈkwɒləti/",
+        "definition": "bình đẳng",
+        "options": [
+            "bình đẳng",
+            "sự ra đời",
+            "hành động",
+            "sự đổi mới"
+        ]
+    },
+    {
+        "word": "perspective",
+        "phonetic": "/pərˈspɛktɪv/",
+        "definition": "góc nhìn",
+        "options": [
+            "góc nhìn",
+            "khó khăn",
+            "khám phá",
+            "tình yêu"
+        ]
+    },
+    {
+        "word": "environmental",
+        "phonetic": "/ɪnˌvaɪrənˈmɛntəl/",
+        "definition": "thuộc về môi trường",
+        "options": [
+            "thuộc về môi trường",
+            "độc quyền",
+            "trái ngược",
+            "dễ dàng"
+        ]
+    },
+    {
+        "word": "responsibility",
+        "phonetic": "/rɪˌspɒnsəˈbɪləti/",
+        "definition": "trách nhiệm",
+        "options": [
+            "trách nhiệm",
+            "thế giới",
+            "địa lý",
+            "kỹ thuật"
+        ]
+    },
+    {
+        "word": "convenience",
+        "phonetic": "/kənˈviːniəns/",
+        "definition": "sự tiện lợi",
+        "options": [
+            "sự tiện lợi",
+            "sự chờ đợi",
+            "món quà",
+            "hội chứng"
+        ]
+    },
+    {
+        "word": "frequency",
+        "phonetic": "/ˈfriːkwənsi/",
+        "definition": "tần suất",
+        "options": [
+            "tần suất",
+            "năm",
+            "thời gian",
+            "cảm xúc"
+        ]
+    },
+    {
+        "word": "knowledge",
+        "phonetic": "/ˈnɒlɪdʒ/",
+        "definition": "kiến thức",
+        "options": [
+            "thông tin",
+            "kiến thức",
+            "dễ dàng",
+            "nhân cách"
+        ]
+    },
+    {
+        "word": "preference",
+        "phonetic": "/ˈprɛfərəns/",
+        "definition": "sở thích",
+        "options": [
+            "sở thích",
+            "tài liệu",
+            "giải trí",
+            "nơi nghỉ ngơi"
+        ]
+    },
+    {
+        "word": "perception",
+        "phonetic": "/pərˈsɛpʃən/",
+        "definition": "nhận thức",
+        "options": [
+            "nhận thức",
+            "thân thiết",
+            "kỹ thuật",
+            "sự thay đổi"
+        ]
+    },
+    {
+        "word": "discussion",
+        "phonetic": "/dɪsˈkʌʃən/",
+        "definition": "cuộc thảo luận",
+        "options": [
+            "cuộc thảo luận",
+            "khó khăn",
+            "hợp tác",
+            "thực tế"
+        ]
+    },
+    {
+        "word": "conclusion",
+        "phonetic": "/kənˈkluːʒən/",
+        "definition": "kết luận",
+        "options": [
+            "kết luận",
+            "cơ hội",
+            "tình huống",
+            "sự thành công"
+        ]
+    },
+    {
+        "word": "promotion",
+        "phonetic": "/prəˈmoʊʃən/",
+        "definition": "sự thăng tiến",
+        "options": [
+            "sự thăng tiến",
+            "hành động",
+            "thẩm mỹ",
+            "tổ chức"
+        ]
+    },
+    {
+        "word": "recognition",
+        "phonetic": "/ˌrɛkəɡˈnɪʃən/",
+        "definition": "sự công nhận",
+        "options": [
+            "sự công nhận",
+            "cảm xúc",
+            "khả năng",
+            "sự thay đổi"
+        ]
+    },
+    {
+        "word": "innovation",
+        "phonetic": "/ˌɪnəˈveɪʃən/",
+        "definition": "sự đổi mới",
+        "options": [
+            "sự đổi mới",
+            "nghi thức",
+            "thời kỳ",
+            "sự tự tin"
+        ]
+    },
+    {
+        "word": "evaluation",
+        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
+        "definition": "sự đánh giá",
+        "options": [
+            "sự đánh giá",
+            "hành động",
+            "sự hồi phục",
+            "sự hỗ trợ"
+        ]
+    },
+    {
+        "word": "implementation",
+        "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
+        "definition": "sự thực hiện",
+        "options": [
+            "sự thực hiện",
+            "nhiệm vụ",
+            "thế giới",
+            "nhà quản lý"
+        ]
+    },
+    {
+        "word": "guideline",
+        "phonetic": "/ˈɡaɪdlaɪn/",
+        "definition": "hướng dẫn",
+        "options": [
+            "hướng dẫn",
+            "phương pháp",
+            "bản thân",
+            "sự phát triển"
+        ]
+    },
+    {
+        "word": "contribution",
+        "phonetic": "/ˌkɒntrɪˈbjuːʃən/",
+        "definition": "sự đóng góp",
+        "options": [
+            "sự cản trở",
+            "sự đóng góp",
+            "giấc mơ",
+            "chạy trốn"
+        ]
+    },
+    {
+        "word": "research",
+        "phonetic": "/rɪˈsɜːrtʃ/",
+        "definition": "nghiên cứu",
+        "options": [
+            "thực hiện",
+            "nghiên cứu",
+            "bối rối",
+            "tổ chức"
+        ]
+    },
+    {
+        "word": "conference",
+        "phonetic": "/ˈkɒnfərəns/",
+        "definition": "hội nghị",
+        "options": [
+            "hội nghị",
+            "khó khăn",
+            "truyền cảm hứng",
+            "chất lượng"
+        ]
+    },
+    {
+        "word": "strategy",
+        "phonetic": "/ˈstrætədʒi/",
+        "definition": "chiến lược",
+        "options": [
+            "chiến lược",
+            "nổi bật",
+            "nỗi buồn",
+            "tình yêu"
+        ]
+    },
+    {
+        "word": "analysis",
+        "phonetic": "/əˈnæləsɪs/",
+        "definition": "phân tích",
+        "options": [
+            "phân tích",
+            "thể loại",
+            "chắc chắn",
+            "khó khăn"
+        ]
+    },
+    {
+        "word": "majority",
+        "phonetic": "/məˈdʒɔːrɪti/",
+        "definition": "đa số",
+        "options": [
+            "độ tuổi",
+            "đa số",
+            "nỗ lực",
+            "sự cân bằng"
+        ]
+    },
+    {
+        "word": "commitment",
+        "phonetic": "/kəˈmɪtmənt/",
+        "definition": "cam kết",
+        "options": [
+            "sự can đảm",
+            "sự cam kết",
+            "cảm xúc",
+            "trở ngại"
+        ]
+    },
+    {
+        "word": "investment",
+        "phonetic": "/ɪnˈvɛstmənt/",
+        "definition": "đầu tư",
+        "options": [
+            "sự đầu tư",
+            "món quà",
+            "mô hình",
+            "khó khăn"
+        ]
+    },
+    {
+        "word": "behavior",
+        "phonetic": "/bɪˈheɪvjər/",
+        "definition": "hành vi",
+        "options": [
+            "hành vi",
+            "tính cách",
+            "nguy hiểm",
+            "bình tĩnh"
+        ]
+    },
+    {
+        "word": "situation",
+        "phonetic": "/ˌsɪtʃuˈeɪʃən/",
+        "definition": "tình huống",
+        "options": [
+            "tình huống",
+            "dự đoán",
+            "nổi bật",
+            "kết quả"
+        ]
+    },
+    {
+        "word": "consciousness",
+        "phonetic": "/ˈkɒnʃəsnəs/",
+        "definition": "ý thức",
+        "options": [
+            "thành công",
+            "ý thức",
+            "sự hỗ trợ",
+            "hành động"
+        ]
+    },
+    {
+        "word": "opportunity",
+        "phonetic": "/ˌɒpəˈtjuːnɪti/",
+        "definition": "cơ hội",
+        "options": [
+            "hệ thống",
+            "cơ hội",
+            "trách nhiệm",
+            "tình cảm"
+        ]
+    },
+    {
+        "word": "equality",
+        "phonetic": "/ɪˈkwɒləti/",
+        "definition": "bình đẳng",
+        "options": [
+            "bình đẳng",
+            "sự ra đời",
+            "hành động",
+            "sự đổi mới"
+        ]
+    },
+    {
+        "word": "perspective",
+        "phonetic": "/pərˈspɛktɪv/",
+        "definition": "góc nhìn",
+        "options": [
+            "góc nhìn",
+            "khó khăn",
+            "khám phá",
+            "tình yêu"
+        ]
+    },
+    {
+        "word": "environmental",
+        "phonetic": "/ɪnˌvaɪrənˈmɛntəl/",
+        "definition": "thuộc về môi trường",
+        "options": [
+            "thuộc về môi trường",
+            "độc quyền",
+            "trái ngược",
+            "dễ dàng"
+        ]
+    },
+    {
+        "word": "responsibility",
+        "phonetic": "/rɪˌspɒnsəˈbɪləti/",
+        "definition": "trách nhiệm",
+        "options": [
+            "trách nhiệm",
+            "thế giới",
+            "địa lý",
+            "kỹ thuật"
+        ]
+    },
+    {
+        "word": "convenience",
+        "phonetic": "/kənˈviːniəns/",
+        "definition": "sự tiện lợi",
+        "options": [
+            "sự tiện lợi",
+            "sự chờ đợi",
+            "món quà",
+            "hội chứng"
+        ]
+    },
+    {
+        "word": "frequency",
+        "phonetic": "/ˈfriːkwənsi/",
+        "definition": "tần suất",
+        "options": [
+            "tần suất",
+            "năm",
+            "thời gian",
+            "cảm xúc"
+        ]
+    },
+    {
+        "word": "knowledge",
+        "phonetic": "/ˈnɒlɪdʒ/",
+        "definition": "kiến thức",
+        "options": [
+            "thông tin",
+            "kiến thức",
+            "dễ dàng",
+            "nhân cách"
+        ]
+    },
+    {
+        "word": "preference",
+        "phonetic": "/ˈprɛfərəns/",
+        "definition": "sở thích",
+        "options": [
+            "sở thích",
+            "tài liệu",
+            "giải trí",
+            "nơi nghỉ ngơi"
+        ]
+    },
+    {
+        "word": "perception",
+        "phonetic": "/pərˈsɛpʃən/",
+        "definition": "nhận thức",
+        "options": [
+            "nhận thức",
+            "thân thiết",
+            "kỹ thuật",
+            "sự thay đổi"
+        ]
+    },
+    {
+        "word": "discussion",
+        "phonetic": "/dɪsˈkʌʃən/",
+        "definition": "cuộc thảo luận",
+        "options": [
+            "cuộc thảo luận",
+            "khó khăn",
+            "hợp tác",
+            "thực tế"
+        ]
+    },
+    {
+        "word": "conclusion",
+        "phonetic": "/kənˈkluːʒən/",
+        "definition": "kết luận",
+        "options": [
+            "kết luận",
+            "cơ hội",
+            "tình huống",
+            "sự thành công"
+        ]
+    },
+    {
+        "word": "promotion",
+        "phonetic": "/prəˈmoʊʃən/",
+        "definition": "sự thăng tiến",
+        "options": [
+            "sự thăng tiến",
+            "hành động",
+            "thẩm mỹ",
+            "tổ chức"
+        ]
+    },
+    {
+        "word": "recognition",
+        "phonetic": "/ˌrɛkəɡˈnɪʃən/",
+        "definition": "sự công nhận",
+        "options": [
+            "sự công nhận",
+            "cảm xúc",
+            "khả năng",
+            "sự thay đổi"
+        ]
+    },
+    {
+        "word": "innovation",
+        "phonetic": "/ˌɪnəˈveɪʃən/",
+        "definition": "sự đổi mới",
+        "options": [
+            "sự đổi mới",
+            "nghi thức",
+            "thời kỳ",
+            "sự tự tin"
+        ]
+    },
+    {
+        "word": "evaluation",
+        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
+        "definition": "sự đánh giá",
+        "options": [
+            "sự đánh giá",
+            "hành động",
+            "sự hồi phục",
+            "sự hỗ trợ"
+        ]
+    },
+    {
+        "word": "implementation",
+        "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
+        "definition": "sự thực hiện",
+        "options": [
+            "sự thực hiện",
+            "đối tượng",
+            "tình huống",
+            "sự tương tác"
+        ]
+    },
+    {
+        "word": "significance",
+        "phonetic": "/sɪɡˈnɪfɪkəns/",
+        "definition": "tầm quan trọng",
+        "options": [
+            "tầm quan trọng",
+            "món quà",
+            "cảm giác",
+            "khó khăn"
+        ]
+    },
+    {
+        "word": "development",
+        "phonetic": "/dɪˈvɛləpmənt/",
+        "definition": "sự phát triển",
+        "options": [
+            "sự phát triển",
+            "truyền cảm hứng",
+            "cách thức",
+            "sự tự tin"
+        ]
+    },
+    {
+        "word": "communication",
+        "phonetic": "/kəˌmjuːnɪˈkeɪʃən/",
+        "definition": "giao tiếp",
+        "options": [
+            "giao tiếp",
+            "kỹ thuật",
+            "hành động",
+            "khó khăn"
+        ]
+    },
+    {
+        "word": "collaboration",
+        "phonetic": "/kəˌlæbəˈreɪʃən/",
+        "definition": "sự hợp tác",
+        "options": [
+            "sự hợp tác",
+            "thực hành",
+            "thành công",
+            "hành động"
+        ]
+    },
+    {
+        "word": "achievement",
+        "phonetic": "/əˈtʃiːvmənt/",
+        "definition": "thành tựu",
+        "options": [
+            "thành tựu",
+            "khó khăn",
+            "trách nhiệm",
+            "sự hỗ trợ"
+        ]
+    },
+    {
+        "word": "evaluation",
+        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
+        "definition": "sự đánh giá",
+        "options": [
+            "sự đánh giá",
+            "thành tựu",
+            "hợp tác",
+            "sự hỗ trợ"
+        ]
+    },
+    {
+        "word": "implementation",
+        "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
+        "definition": "sự thực hiện",
+        "options": [
+            "sự thực hiện",
+            "sự hỗ trợ",
+            "sự cản trở",
+            "thành công"
+        ]
+    },
+    {
+        "word": "recognition",
+        "phonetic": "/ˌrɛkəɡˈnɪʃən/",
+        "definition": "sự công nhận",
+        "options": [
+            "sự công nhận",
+            "đáng tin cậy",
+            "địa lý",
+            "đầu tư"
+        ]
+    },
+    {
+        "word": "communication",
+        "phonetic": "/kəˌmjuːnɪˈkeɪʃən/",
+        "definition": "giao tiếp",
+        "options": [
+            "giao tiếp",
+            "tình huống",
+            "khó khăn",
+            "sự giải trí"
+        ]
+    },
+    {
+        "word": "management",
+        "phonetic": "/ˈmænɪdʒmənt/",
+        "definition": "quản lý",
+        "options": [
+            "quản lý",
+            "sự tự do",
+            "công việc",
+            "sự trở ngại"
+        ]
+    },
+    {
+        "word": "motivation",
+        "phonetic": "/ˌmoʊtɪˈveɪʃən/",
+        "definition": "động lực",
+        "options": [
+            "động lực",
+            "khó khăn",
+            "kỹ thuật",
+            "sự đánh giá"
+        ]
+    },
+    {
+        "word": "innovation",
+        "phonetic": "/ˌɪnəˈveɪʃən/",
+        "definition": "sự đổi mới",
+        "options": [
+            "sự đổi mới",
+            "sự phân tích",
+            "sự cam kết",
+            "dự đoán"
+        ]
+    },
+    {
+        "word": "contribution",
+        "phonetic": "/ˌkɒntrɪˈbjuːʃən/",
+        "definition": "sự đóng góp",
+        "options": [
+            "sự đóng góp",
+            "sự cam kết",
+            "hành động",
+            "khó khăn"
+        ]
+    },
+    {
+        "word": "evaluation",
+        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
+        "definition": "sự đánh giá",
+        "options": [
+            "sự đánh giá",
+            "động lực",
+            "kỹ thuật",
+            "sự tự do"
+        ]
+    },
+    {
+        "word": "analysis",
+        "phonetic": "/əˈnæləsɪs/",
+        "definition": "phân tích",
+        "options": [
+            "phân tích",
+            "hành động",
+            "sự hỗ trợ",
+            "cảm xúc"
+        ]
     }
 ]
