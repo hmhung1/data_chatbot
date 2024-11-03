@@ -3,564 +3,308 @@
         "word": "implementation",
         "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
         "definition": "thực hiện",
-        "options": [
-            "thực hiện",
-            "đối tượng",
-            "tình huống",
-            "tương tác"
-        ],
+        "options": ["thực hiện", "đối tượng", "tình huống", "tương tác"],
         "example": "The implementation of the new policy improved efficiency."
     },
     {
         "word": "significance",
         "phonetic": "/sɪɡˈnɪfɪkəns/",
         "definition": "tầm quan trọng",
-        "options": [
-            "món quà",
-            "cảm giác",
-            "tầm quan trọng",
-            "khó khăn"
-        ],
+        "options": ["món quà", "cảm giác", "tầm quan trọng", "khó khăn"],
         "example": "The significance of the study cannot be understated."
     },
     {
         "word": "development",
         "phonetic": "/dɪˈvɛləpmənt/",
         "definition": "phát triển",
-        "options": [
-            "phát triển",
-            "truyền cảm hứng",
-            "cách thức",
-            "tự tin"
-        ],
+        "options": ["phát triển", "truyền cảm hứng", "cách thức", "tự tin"],
         "example": "The development of the software took several months."
     },
     {
         "word": "communication",
         "phonetic": "/kəˌmjuːnɪˈkeɪʃən/",
         "definition": "giao tiếp",
-        "options": [
-            "tình huống",
-            "giao tiếp",
-            "hành động",
-            "khó khăn"
-        ],
+        "options": ["tình huống", "giao tiếp", "hành động", "khó khăn"],
         "example": "Effective communication is key to any successful relationship."
     },
     {
         "word": "collaboration",
         "phonetic": "/kəˌlæbəˈreɪʃən/",
         "definition": "hợp tác",
-        "options": [
-            "hành động",
-            "thành công",
-            "hợp tác",
-            "thực hành"
-        ],
+        "options": ["hành động", "thành công", "hợp tác", "thực hành"],
         "example": "The collaboration between the teams led to innovative solutions."
     },
     {
-        "word": "achievement",
-        "phonetic": "/əˈtʃiːvmənt/",
-        "definition": "thành tựu",
-        "options": [
-            "khó khăn",
-            "trách nhiệm",
-            "thành tựu",
-            "hỗ trợ"
-        ],
-        "example": "Her achievement in winning the competition was celebrated."
-    },
-    {
-        "word": "evaluation",
+        "word": "",
         "phonetic": "/ɪˌvæljʊˈeɪʃən/",
         "definition": "đánh giá",
-        "options": [
-            "hợp tác",
-            "đánh giá",
-            "thành tựu",
-            "hỗ trợ"
-        ],
+        "options": ["hợp tác", "đánh giá", "thành tựu", "hỗ trợ"],
         "example": "The evaluation of the project revealed several areas for improvement."
     },
     {
         "word": "recognition",
         "phonetic": "/ˌrɛkəɡˈnɪʃən/",
         "definition": "công nhận",
-        "options": [
-            "địa lý",
-            "đầu tư",
-            "đáng tin cậy",
-            "công nhận"
-        ],
+        "options": ["địa lý", "đầu tư", "đáng tin cậy", "công nhận"],
         "example": "She received recognition for her hard work and dedication."
     },
     {
         "word": "management",
         "phonetic": "/ˈmænɪdʒmənt/",
         "definition": "quản lý",
-        "options": [
-            "công việc",
-            "tự do",
-            "quản lý",
-            "trở ngại"
-        ],
+        "options": ["công việc", "tự do", "quản lý", "trở ngại"],
         "example": "Effective management is crucial for a successful business."
     },
     {
         "word": "motivation",
         "phonetic": "/ˌmoʊtɪˈveɪʃən/",
         "definition": "động lực",
-        "options": [
-            "đánh giá",
-            "khó khăn",
-            "động lực",
-            "kỹ thuật"
-        ],
+        "options": ["đánh giá", "khó khăn", "động lực", "kỹ thuật"],
         "example": "Her motivation to succeed inspired those around her."
     },
     {
         "word": "innovation",
         "phonetic": "/ˌɪnəˈveɪʃən/",
         "definition": "đổi mới",
-        "options": [
-            "đổi mới",
-            "truyền thống",
-            "bảo thủ",
-            "lặp lại"
-        ],
+        "options": ["đổi mới", "truyền thống", "bảo thủ", "lặp lại"],
         "example": "Innovation is crucial for staying competitive in the market."
     },
     {
         "word": "strategy",
         "phonetic": "/ˈstrætədʒi/",
         "definition": "chiến lược",
-        "options": [
-            "chiến lược",
-            "ngẫu nhiên",
-            "tình cờ",
-            "bộc phát"
-        ],
+        "options": ["chiến lược", "ngẫu nhiên", "tình cờ", "bộc phát"],
         "example": "The company developed a new strategy to increase market share."
     },
     {
         "word": "efficiency",
         "phonetic": "/ɪˈfɪʃənsi/",
         "definition": "hiệu quả",
-        "options": [
-            "hiệu quả",
-            "lãng phí",
-            "chậm chạp",
-            "kém cỏi"
-        ],
+        "options": ["hiệu quả", "lãng phí", "chậm chạp", "kém cỏi"],
         "example": "The new system greatly improved the efficiency of our operations."
     },
     {
         "word": "productivity",
         "phonetic": "/ˌprɒdʌkˈtɪvəti/",
         "definition": "năng suất",
-        "options": [
-            "năng suất",
-            "lười biếng",
-            "trì hoãn",
-            "bất lực"
-        ],
+        "options": ["năng suất", "lười biếng", "trì hoãn", "bất lực"],
         "example": "The company's productivity increased after implementing new technologies."
     },
     {
         "word": "leadership",
         "phonetic": "/ˈliːdəʃɪp/",
         "definition": "lãnh đạo",
-        "options": [
-            "lãnh đạo",
-            "tuân thủ",
-            "phục tùng",
-            "bất tuân"
-        ],
+        "options": ["lãnh đạo", "tuân thủ", "phục tùng", "bất tuân"],
         "example": "Strong leadership is essential for guiding a team to success."
     },
     {
         "word": "dedication",
         "phonetic": "/ˌdedɪˈkeɪʃən/",
         "definition": "tận tâm",
-        "options": [
-            "tận tâm",
-            "thờ ơ",
-            "lơ đãng",
-            "hời hợt"
-        ],
+        "options": ["tận tâm", "thờ ơ", "lơ đãng", "hời hợt"],
         "example": "Her dedication to the project was evident in the quality of her work."
     },
     {
         "word": "persistence",
         "phonetic": "/pəˈsɪstəns/",
         "definition": "kiên trì",
-        "options": [
-            "kiên trì",
-            "bỏ cuộc",
-            "nản lòng",
-            "dao động"
-        ],
+        "options": ["kiên trì", "bỏ cuộc", "nản lòng", "dao động"],
         "example": "His persistence in the face of challenges led to eventual success."
     },
     {
         "word": "adaptability",
         "phonetic": "/əˌdæptəˈbɪləti/",
         "definition": "khả năng thích nghi",
-        "options": [
-            "khả năng thích nghi",
-            "cứng nhắc",
-            "bảo thủ",
-            "ngoan cố"
-        ],
+        "options": ["khả năng thích nghi", "cứng nhắc", "bảo thủ", "ngoan cố"],
         "example": "Adaptability is crucial in a rapidly changing business environment."
     },
     {
         "word": "implementation",
         "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
         "definition": "thực hiện",
-        "options": [
-            "thực hiện",
-            "đối tượng",
-            "tình huống",
-            "tương tác"
-        ],
+        "options": ["thực hiện", "đối tượng", "tình huống", "tương tác"],
         "example": "The implementation of the new policy improved efficiency."
     },
     {
         "word": "significance",
         "phonetic": "/sɪɡˈnɪfɪkəns/",
         "definition": "tầm quan trọng",
-        "options": [
-            "món quà",
-            "cảm giác",
-            "tầm quan trọng",
-            "khó khăn"
-        ],
+        "options": ["món quà", "cảm giác", "tầm quan trọng", "khó khăn"],
         "example": "The significance of the study cannot be understated."
     },
     {
         "word": "development",
         "phonetic": "/dɪˈvɛləpmənt/",
         "definition": "phát triển",
-        "options": [
-            "phát triển",
-            "truyền cảm hứng",
-            "cách thức",
-            "tự tin"
-        ],
+        "options": ["phát triển", "truyền cảm hứng", "cách thức", "tự tin"],
         "example": "The development of the software took several months."
     },
     {
         "word": "communication",
         "phonetic": "/kəˌmjuːnɪˈkeɪʃən/",
         "definition": "giao tiếp",
-        "options": [
-            "tình huống",
-            "giao tiếp",
-            "hành động",
-            "khó khăn"
-        ],
+        "options": ["tình huống", "giao tiếp", "hành động", "khó khăn"],
         "example": "Effective communication is key to any successful relationship."
     },
     {
         "word": "collaboration",
         "phonetic": "/kəˌlæbəˈreɪʃən/",
         "definition": "hợp tác",
-        "options": [
-            "hành động",
-            "thành công",
-            "hợp tác",
-            "thực hành"
-        ],
+        "options": ["hành động", "thành công", "hợp tác", "thực hành"],
         "example": "The collaboration between the teams led to innovative solutions."
     },
     {
         "word": "achievement",
         "phonetic": "/əˈtʃiːvmənt/",
         "definition": "thành tựu",
-        "options": [
-            "khó khăn",
-            "trách nhiệm",
-            "thành tựu",
-            "hỗ trợ"
-        ],
+        "options": ["khó khăn", "trách nhiệm", "thành tựu", "hỗ trợ"],
         "example": "Her achievement in winning the competition was celebrated."
     },
     {
         "word": "evaluation",
         "phonetic": "/ɪˌvæljʊˈeɪʃən/",
         "definition": "đánh giá",
-        "options": [
-            "hợp tác",
-            "đánh giá",
-            "thành tựu",
-            "hỗ trợ"
-        ],
+        "options": ["hợp tác", "đánh giá", "thành tựu", "hỗ trợ"],
         "example": "The evaluation of the project revealed several areas for improvement."
     },
     {
         "word": "recognition",
         "phonetic": "/ˌrɛkəɡˈnɪʃən/",
         "definition": "công nhận",
-        "options": [
-            "địa lý",
-            "đầu tư",
-            "đáng tin cậy",
-            "công nhận"
-        ],
+        "options": ["địa lý", "đầu tư", "đáng tin cậy", "công nhận"],
         "example": "She received recognition for her hard work and dedication."
     },
     {
         "word": "management",
         "phonetic": "/ˈmænɪdʒmənt/",
         "definition": "quản lý",
-        "options": [
-            "công việc",
-            "tự do",
-            "quản lý",
-            "trở ngại"
-        ],
+        "options": ["công việc", "tự do", "quản lý", "trở ngại"],
         "example": "Effective management is crucial for a successful business."
     },
     {
         "word": "motivation",
         "phonetic": "/ˌmoʊtɪˈveɪʃən/",
         "definition": "động lực",
-        "options": [
-            "đánh giá",
-            "khó khăn",
-            "động lực",
-            "kỹ thuật"
-        ],
+        "options": ["đánh giá", "khó khăn", "động lực", "kỹ thuật"],
         "example": "Her motivation to succeed inspired those around her."
     },
     {
         "word": "innovation",
         "phonetic": "/ˌɪnəˈveɪʃən/",
         "definition": "đổi mới",
-        "options": [
-            "đổi mới",
-            "truyền thống",
-            "bảo thủ",
-            "lặp lại"
-        ],
+        "options": ["đổi mới", "truyền thống", "bảo thủ", "lặp lại"],
         "example": "Innovation is crucial for staying competitive in the market."
     },
     {
-        "word": "strategy",
-        "phonetic": "/ˈstrætədʒi/",
-        "definition": "chiến lược",
-        "options": [
-            "chiến lược",
-            "ngẫu nhiên",
-            "tình cờ",
-            "bộc phát"
-        ],
-        "example": "The company developed a new strategy to increase market share."
-    },
-    {
-        "word": "efficiency",
+        "word": "",
         "phonetic": "/ɪˈfɪʃənsi/",
         "definition": "hiệu quả",
-        "options": [
-            "hiệu quả",
-            "lãng phí",
-            "chậm chạp",
-            "kém cỏi"
-        ],
+        "options": ["hiệu quả", "lãng phí", "chậm chạp", "kém cỏi"],
         "example": "The new system greatly improved the efficiency of our operations."
     },
     {
         "word": "productivity",
         "phonetic": "/ˌprɒdʌkˈtɪvəti/",
         "definition": "năng suất",
-        "options": [
-            "năng suất",
-            "lười biếng",
-            "trì hoãn",
-            "bất lực"
-        ],
+        "options": ["năng suất", "lười biếng", "trì hoãn", "bất lực"],
         "example": "The company's productivity increased after implementing new technologies."
     },
     {
         "word": "leadership",
         "phonetic": "/ˈliːdəʃɪp/",
         "definition": "lãnh đạo",
-        "options": [
-            "lãnh đạo",
-            "tuân thủ",
-            "phục tùng",
-            "bất tuân"
-        ],
+        "options": ["lãnh đạo", "tuân thủ", "phục tùng", "bất tuân"],
         "example": "Strong leadership is essential for guiding a team to success."
     },
     {
         "word": "dedication",
         "phonetic": "/ˌdedɪˈkeɪʃən/",
         "definition": "tận tâm",
-        "options": [
-            "tận tâm",
-            "thờ ơ",
-            "lơ đãng",
-            "hời hợt"
-        ],
+        "options": ["tận tâm", "thờ ơ", "lơ đãng", "hời hợt"],
         "example": "Her dedication to the project was evident in the quality of her work."
     },
     {
         "word": "persistence",
         "phonetic": "/pəˈsɪstəns/",
         "definition": "kiên trì",
-        "options": [
-            "kiên trì",
-            "bỏ cuộc",
-            "nản lòng",
-            "dao động"
-        ],
+        "options": ["kiên trì", "bỏ cuộc", "nản lòng", "dao động"],
         "example": "His persistence in the face of challenges led to eventual success."
     },
     {
         "word": "adaptability",
         "phonetic": "/əˌdæptəˈbɪləti/",
         "definition": "khả năng thích nghi",
-        "options": [
-            "khả năng thích nghi",
-            "cứng nhắc",
-            "bảo thủ",
-            "ngoan cố"
-        ],
+        "options": ["khả năng thích nghi", "cứng nhắc", "bảo thủ", "ngoan cố"],
         "example": "Adaptability is crucial in a rapidly changing business environment."
-    },
-        {
-        "word": "evaluation",
-        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
-        "definition": "đánh giá",
-        "options": [
-            "đánh giá",
-            "bỏ qua",
-            "không đánh giá",
-            "thờ ơ"
-        ],
-        "example": "The evaluation process is essential for measuring success."
     },
     {
         "word": "implementation",
         "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
         "definition": "thực hiện",
-        "options": [
-            "thực hiện",
-            "đối tượng",
-            "tình huống",
-            "tương tác"
-        ],
+        "options": ["thực hiện", "đối tượng", "tình huống", "tương tác"],
         "example": "The implementation of the new system was successful."
     },
     {
         "word": "sustainability",
         "phonetic": "/səˌsteɪnəˈbɪləti/",
         "definition": "bền vững",
-        "options": [
-            "bền vững",
-            "tạm thời",
-            "ngắn hạn",
-            "không bền"
-        ],
+        "options": ["bền vững", "tạm thời", "ngắn hạn", "không bền"],
         "example": "Sustainability is a key focus for many modern businesses."
     },
     {
         "word": "transparency",
         "phonetic": "/trænsˈpɛrənsi/",
         "definition": "minh bạch",
-        "options": [
-            "minh bạch",
-            "mờ ám",
-            "che giấu",
-            "không rõ ràng"
-        ],
+        "options": ["minh bạch", "mờ ám", "che giấu", "không rõ ràng"],
         "example": "Transparency in operations builds trust with stakeholders."
     },
     {
         "word": "diversity",
         "phonetic": "/daɪˈvɜːrsɪti/",
         "definition": "đa dạng",
-        "options": [
-            "đa dạng",
-            "đồng nhất",
-            "giống nhau",
-            "tương tự"
-        ],
+        "options": ["đa dạng", "đồng nhất", "giống nhau", "tương tự"],
         "example": "Diversity in the workplace fosters creativity and innovation."
     },
     {
         "word": "accountability",
         "phonetic": "/əˌkaʊntəˈbɪləti/",
         "definition": "trách nhiệm",
-        "options": [
-            "trách nhiệm",
-            "vô trách nhiệm",
-            "không quan tâm",
-            "thờ ơ"
-        ],
+        "options": ["trách nhiệm", "vô trách nhiệm", "không quan tâm", "thờ ơ"],
         "example": "Accountability is essential for effective team dynamics."
     },
     {
         "word": "engagement",
         "phonetic": "/ɪnˈɡeɪdʒmənt/",
         "definition": "sự tham gia",
-        "options": [
-            "sự tham gia",
-            "sự thờ ơ",
-            "sự ngó lơ",
-            "sự tách biệt"
-        ],
+        "options": ["sự tham gia", "sự thờ ơ", "sự ngó lơ", "sự tách biệt"],
         "example": "Employee engagement is crucial for productivity."
     },
     {
         "word": "vision",
         "phonetic": "/ˈvɪʒən/",
         "definition": "tầm nhìn",
-        "options": [
-            "tầm nhìn",
-            "mù quáng",
-            "không rõ ràng",
-            "bất định"
-        ],
+        "options": ["tầm nhìn", "mù quáng", "không rõ ràng", "bất định"],
         "example": "A clear vision helps guide a company towards its goals."
     },
     {
         "word": "strategy",
         "phonetic": "/ˈstrætədʒi/",
         "definition": "chiến lược",
-        "options": [
-            "chiến lược",
-            "ngẫu nhiên",
-            "không có kế hoạch",
-            "bất cẩn"
-        ],
+        "options": ["chiến lược", "ngẫu nhiên", "không có kế hoạch", "bất cẩn"],
         "example": "The strategy for the next quarter focuses on customer satisfaction."
     },
     {
         "word": "technology",
         "phonetic": "/tɛkˈnɒlədʒi/",
         "definition": "công nghệ",
-        "options": [
-            "công nghệ",
-            "lạc hậu",
-            "cổ điển",
-            "truyền thống"
-        ],
+        "options": ["công nghệ", "lạc hậu", "cổ điển", "truyền thống"],
         "example": "Advancements in technology are changing the way we live."
     },
     {
         "word": "performance",
         "phonetic": "/pərˈfɔːrməns/",
         "definition": "hiệu suất",
-        "options": [
-            "hiệu suất",
-            "kém cỏi",
-            "thấp",
-            "tệ"
-        ],
+        "options": ["hiệu suất", "kém cỏi", "thấp", "tệ"],
         "example": "Performance reviews help identify areas for improvement."
     }
 ]
