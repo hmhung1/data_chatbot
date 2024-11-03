@@ -2,12 +2,12 @@
     {
         "word": "implementation",
         "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
-        "definition": "sự thực hiện",
+        "definition": "thực hiện",
         "options": [
-            "sự thực hiện",
+            "thực hiện",
             "đối tượng",
             "tình huống",
-            "sự tương tác"
+            "tương tác"
         ],
         "example": "The implementation of the new policy improved efficiency."
     },
@@ -26,12 +26,12 @@
     {
         "word": "development",
         "phonetic": "/dɪˈvɛləpmənt/",
-        "definition": "sự phát triển",
+        "definition": "phát triển",
         "options": [
-            "sự phát triển",
+            "phát triển",
             "truyền cảm hứng",
             "cách thức",
-            "sự tự tin"
+            "tự tin"
         ],
         "example": "The development of the software took several months."
     },
@@ -50,9 +50,9 @@
     {
         "word": "collaboration",
         "phonetic": "/kəˌlæbəˈreɪʃən/",
-        "definition": "sự hợp tác",
+        "definition": "hợp tác",
         "options": [
-            "sự hợp tác",
+            "hợp tác",
             "thực hành",
             "thành công",
             "hành động"
@@ -67,40 +67,28 @@
             "thành tựu",
             "khó khăn",
             "trách nhiệm",
-            "sự hỗ trợ"
+            "hỗ trợ"
         ],
         "example": "Her achievement in winning the competition was celebrated."
     },
     {
         "word": "evaluation",
         "phonetic": "/ɪˌvæljʊˈeɪʃən/",
-        "definition": "sự đánh giá",
+        "definition": "đánh giá",
         "options": [
-            "sự đánh giá",
+            "đánh giá",
             "thành tựu",
             "hợp tác",
-            "sự hỗ trợ"
+            "hỗ trợ"
         ],
         "example": "The evaluation of the project revealed several areas for improvement."
     },
     {
-        "word": "implementation",
-        "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
-        "definition": "sự thực hiện",
-        "options": [
-            "sự thực hiện",
-            "sự hỗ trợ",
-            "sự cản trở",
-            "thành công"
-        ],
-        "example": "The implementation of the plan was met with enthusiasm."
-    },
-    {
         "word": "recognition",
         "phonetic": "/ˌrɛkəɡˈnɪʃən/",
-        "definition": "sự công nhận",
+        "definition": "công nhận",
         "options": [
-            "sự công nhận",
+            "công nhận",
             "đáng tin cậy",
             "địa lý",
             "đầu tư"
@@ -108,26 +96,14 @@
         "example": "She received recognition for her hard work and dedication."
     },
     {
-        "word": "communication",
-        "phonetic": "/kəˌmjuːnɪˈkeɪʃən/",
-        "definition": "giao tiếp",
-        "options": [
-            "giao tiếp",
-            "tình huống",
-            "khó khăn",
-            "sự giải trí"
-        ],
-        "example": "Good communication can prevent misunderstandings."
-    },
-    {
         "word": "management",
         "phonetic": "/ˈmænɪdʒmənt/",
         "definition": "quản lý",
         "options": [
             "quản lý",
-            "sự tự do",
+            "tự do",
             "công việc",
-            "sự trở ngại"
+            "trở ngại"
         ],
         "example": "Effective management is crucial for a successful business."
     },
@@ -139,18 +115,18 @@
             "động lực",
             "khó khăn",
             "kỹ thuật",
-            "sự đánh giá"
+            "đánh giá"
         ],
         "example": "Her motivation to succeed inspired those around her."
     },
     {
         "word": "innovation",
         "phonetic": "/ˌɪnəˈveɪʃən/",
-        "definition": "sự đổi mới",
+        "definition": "đổi mới",
         "options": [
-            "sự đổi mới",
-            "sự phân tích",
-            "sự cam kết",
+            "đổi mới",
+            "phân tích",
+            "cam kết",
             "dự đoán"
         ],
         "example": "Innovation is essential for staying competitive in the market."
@@ -158,26 +134,14 @@
     {
         "word": "contribution",
         "phonetic": "/ˌkɒntrɪˈbjuːʃən/",
-        "definition": "sự đóng góp",
+        "definition": "đóng góp",
         "options": [
-            "sự đóng góp",
-            "sự cam kết",
+            "đóng góp",
+            "cam kết",
             "hành động",
             "khó khăn"
         ],
         "example": "Her contribution to the project was invaluable."
-    },
-    {
-        "word": "evaluation",
-        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
-        "definition": "sự đánh giá",
-        "options": [
-            "sự đánh giá",
-            "động lực",
-            "kỹ thuật",
-            "sự tự do"
-        ],
-        "example": "The evaluation process is crucial for determining effectiveness."
     },
     {
         "word": "analysis",
@@ -186,9 +150,633 @@
         "options": [
             "phân tích",
             "hành động",
-            "sự hỗ trợ",
+            "hỗ trợ",
             "cảm xúc"
         ],
         "example": "The analysis of the data provided important insights."
+    },
+    {
+        "word": "integration",
+        "phonetic": "/ˌɪntɪˈɡreɪʃən/",
+        "definition": "tích hợp",
+        "options": [
+            "tích hợp",
+            "mâu thuẫn",
+            "chỉ dẫn",
+            "dự báo"
+        ],
+        "example": "The integration of new technology can enhance productivity."
+    },
+    {
+        "word": "strategy",
+        "phonetic": "/ˈstrætədʒi/",
+        "definition": "chiến lược",
+        "options": [
+            "chiến lược",
+            "vận chuyển",
+            "quyết định",
+            "chất lượng"
+        ],
+        "example": "A clear strategy is vital for achieving long-term goals."
+    },
+    {
+        "word": "performance",
+        "phonetic": "/pərˈfɔːrməns/",
+        "definition": "hiệu suất",
+        "options": [
+            "hiệu suất",
+            "chất lượng",
+            "đánh giá",
+            "thành công"
+        ],
+        "example": "The performance of the team improved significantly."
+    },
+    {
+        "word": "investment",
+        "phonetic": "/ɪnˈvɛstmənt/",
+        "definition": "đầu tư",
+        "options": [
+            "đầu tư",
+            "rủi ro",
+            "lợi nhuận",
+            "kế hoạch"
+        ],
+        "example": "Her investment in the company paid off handsomely."
+    },
+    {
+        "word": "evaluation",
+        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
+        "definition": "đánh giá",
+        "options": [
+            "đánh giá",
+            "kết quả",
+            "cải thiện",
+            "quy trình"
+        ],
+        "example": "The evaluation revealed key areas for growth."
+    },
+    {
+        "word": "collaboration",
+        "phonetic": "/kəˌlæbəˈreɪʃən/",
+        "definition": "hợp tác",
+        "options": [
+            "hợp tác",
+            "cạnh tranh",
+            "thành công",
+            "sáng tạo"
+        ],
+        "example": "Collaboration can lead to groundbreaking discoveries."
+    },
+    {
+        "word": "execution",
+        "phonetic": "/ˌɛksɪˈkjuːʃən/",
+        "definition": "thực thi",
+        "options": [
+            "thực thi",
+            "phân tích",
+            "đề xuất",
+            "giải pháp"
+        ],
+        "example": "The execution of the project was flawless."
+    },
+    {
+        "word": "advancement",
+        "phonetic": "/ədˈvænsmənt/",
+        "definition": "tiến bộ",
+        "options": [
+            "tiến bộ",
+            "khó khăn",
+            "cải thiện",
+            "thành công"
+        ],
+        "example": "The advancement of technology has changed the way we live."
+    },
+    {
+        "word": "persuasion",
+        "phonetic": "/pərˈsweɪʒən/",
+        "definition": "thuyết phục",
+        "options": [
+            "thuyết phục",
+            "kết quả",
+            "tương tác",
+            "khó khăn"
+        ],
+        "example": "Her persuasion skills helped close the deal."
+    },
+    {
+        "word": "participation",
+        "phonetic": "/pɑːrˌtɪsɪˈpeɪʃən/",
+        "definition": "tham gia",
+        "options": [
+            "tham gia",
+            "đối tượng",
+            "kết quả",
+            "kỹ thuật"
+        ],
+        "example": "Participation in community activities can enhance relationships."
+    },
+    {
+        "word": "motivation",
+        "phonetic": "/ˌmoʊtɪˈveɪʃən/",
+        "definition": "động lực",
+        "options": [
+            "động lực",
+            "cảm giác",
+            "thời gian",
+            "kế hoạch"
+        ],
+        "example": "Motivation is essential for achieving personal goals."
+    },
+    {
+        "word": "transformation",
+        "phonetic": "/ˌtrænsfərˈmeɪʃən/",
+        "definition": "chuyển đổi",
+        "options": [
+            "chuyển đổi",
+            "truyền thông",
+            "phát triển",
+            "cải thiện"
+        ],
+        "example": "The transformation of the organization was remarkable."
+    },
+    {
+        "word": "contribution",
+        "phonetic": "/ˌkɒntrɪˈbjuːʃən/",
+        "definition": "đóng góp",
+        "options": [
+            "đóng góp",
+            "tinh thần",
+            "sáng tạo",
+            "thực hiện"
+        ],
+        "example": "His contribution to the team was greatly appreciated."
+    },
+    {
+        "word": "engagement",
+        "phonetic": "/ɪnˈɡeɪdʒmənt/",
+        "definition": "sự tham gia",
+        "options": [
+            "sự tham gia",
+            "hỗ trợ",
+            "tương tác",
+            "đánh giá"
+        ],
+        "example": "The engagement of employees leads to higher productivity."
+    },
+    {
+        "word": "application",
+        "phonetic": "/ˌæplɪˈkeɪʃən/",
+        "definition": "ứng dụng",
+        "options": [
+            "ứng dụng",
+            "kế hoạch",
+            "tổ chức",
+            "tương tác"
+        ],
+        "example": "The application of new methods has shown promising results."
+    },
+    {
+        "word": "dedication",
+        "phonetic": "/ˌdɛdɪˈkeɪʃən/",
+        "definition": "cống hiến",
+        "options": [
+            "cống hiến",
+            "thành công",
+            "đánh giá",
+            "tinh thần"
+        ],
+        "example": "Her dedication to her work is truly inspiring."
+    },
+    {
+        "word": "exploration",
+        "phonetic": "/ˌɛkspləˈreɪʃən/",
+        "definition": "khám phá",
+        "options": [
+            "khám phá",
+            "truyền thông",
+            "kỹ năng",
+            "thành công"
+        ],
+        "example": "The exploration of new ideas can lead to innovation."
+    },
+    {
+        "word": "adaptation",
+        "phonetic": "/ˌædæpˈteɪʃən/",
+        "definition": "thích nghi",
+        "options": [
+            "thích nghi",
+            "tình huống",
+            "khó khăn",
+            "thành công"
+        ],
+        "example": "Adaptation to new circumstances is essential for survival."
+    },
+    {
+        "word": "assessment",
+        "phonetic": "/əˈsɛsmənt/",
+        "definition": "đánh giá",
+        "options": [
+            "đánh giá",
+            "đề xuất",
+            "kết quả",
+            "cải thiện"
+        ],
+        "example": "The assessment of risks is critical in decision-making."
+    },
+    {
+        "word": "realization",
+        "phonetic": "/ˌriːəlaɪˈzeɪʃən/",
+        "definition": "nhận thức",
+        "options": [
+            "nhận thức",
+            "sự thật",
+            "thành công",
+            "hành động"
+        ],
+        "example": "Her realization of her goals brought her great satisfaction."
+    },
+    {
+        "word": "clarification",
+        "phonetic": "/ˌklærɪfɪˈkeɪʃən/",
+        "definition": "làm rõ",
+        "options": [
+            "làm rõ",
+            "hỗ trợ",
+            "đánh giá",
+            "quyết định"
+        ],
+        "example": "The clarification of the rules was necessary for everyone."
+    },
+    {
+        "word": "formation",
+        "phonetic": "/fɔːrˈmeɪʃən/",
+        "definition": "hình thành",
+        "options": [
+            "hình thành",
+            "thành công",
+            "kỹ năng",
+            "cải thiện"
+        ],
+        "example": "The formation of the committee was a significant step forward."
+    },
+    {
+        "word": "commitment",
+        "phonetic": "/kəˈmɪtmənt/",
+        "definition": "cam kết",
+        "options": [
+            "cam kết",
+            "quyết định",
+            "tinh thần",
+            "hỗ trợ"
+        ],
+        "example": "Her commitment to excellence was evident in her work."
+    },
+    {
+        "word": "representation",
+        "phonetic": "/ˌrɛprɪzɛnˈteɪʃən/",
+        "definition": "đại diện",
+        "options": [
+            "đại diện",
+            "thành công",
+            "hỗ trợ",
+            "cải thiện"
+        ],
+        "example": "The representation of diverse voices is essential for inclusivity."
+    },
+    {
+        "word": "development",
+        "phonetic": "/dɪˈvɛləpmənt/",
+        "definition": "phát triển",
+        "options": [
+            "phát triển",
+            "đổi mới",
+            "cam kết",
+            "tổ chức"
+        ],
+        "example": "The development of new products is crucial for growth."
+    },
+    {
+        "word": "exploration",
+        "phonetic": "/ˌɛkspləˈreɪʃən/",
+        "definition": "khám phá",
+        "options": [
+            "khám phá",
+            "hỗ trợ",
+            "đánh giá",
+            "thành công"
+        ],
+        "example": "Exploration of new markets can increase profits."
+    },
+    {
+        "word": "evaluation",
+        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
+        "definition": "đánh giá",
+        "options": [
+            "đánh giá",
+            "kế hoạch",
+            "cải thiện",
+            "đối tượng"
+        ],
+        "example": "The evaluation process was thorough and insightful."
+    },
+    {
+        "word": "exploration",
+        "phonetic": "/ˌɛkspləˈreɪʃən/",
+        "definition": "khám phá",
+        "options": [
+            "khám phá",
+            "tình huống",
+            "kết quả",
+            "khó khăn"
+        ],
+        "example": "The exploration of the ocean depths reveals many mysteries."
+    },
+    {
+        "word": "implementation",
+        "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
+        "definition": "thực hiện",
+        "options": [
+            "thực hiện",
+            "đối tượng",
+            "tình huống",
+            "tương tác"
+        ],
+        "example": "The implementation of the new system improved operations."
+    },
+    {
+        "word": "collaboration",
+        "phonetic": "/kəˌlæbəˈreɪʃən/",
+        "definition": "hợp tác",
+        "options": [
+            "hợp tác",
+            "thực hành",
+            "thành công",
+            "hành động"
+        ],
+        "example": "Collaboration between departments can enhance efficiency."
+    },
+    {
+        "word": "achievement",
+        "phonetic": "/əˈtʃiːvmənt/",
+        "definition": "thành tựu",
+        "options": [
+            "thành tựu",
+            "khó khăn",
+            "trách nhiệm",
+            "hỗ trợ"
+        ],
+        "example": "Her achievement in completing the project was commendable."
+    },
+    {
+        "word": "motivation",
+        "phonetic": "/ˌmoʊtɪˈveɪʃən/",
+        "definition": "động lực",
+        "options": [
+            "động lực",
+            "khó khăn",
+            "kỹ thuật",
+            "đánh giá"
+        ],
+        "example": "The motivation behind the project was to improve community welfare."
+    },
+    {
+        "word": "innovation",
+        "phonetic": "/ˌɪnəˈveɪʃən/",
+        "definition": "đổi mới",
+        "options": [
+            "đổi mới",
+            "phân tích",
+            "cam kết",
+            "dự đoán"
+        ],
+        "example": "Innovation is key to staying ahead in a competitive market."
+    },
+    {
+        "word": "strategy",
+        "phonetic": "/ˈstrætədʒi/",
+        "definition": "chiến lược",
+        "options": [
+            "chiến lược",
+            "sự kiện",
+            "tình huống",
+            "quyết định"
+        ],
+        "example": "Developing a clear strategy is essential for success."
+    },
+    {
+        "word": "consequence",
+        "phonetic": "/ˈkɒnsɪkwəns/",
+        "definition": "hậu quả",
+        "options": [
+            "hậu quả",
+            "tình huống",
+            "trách nhiệm",
+            "kế hoạch"
+        ],
+        "example": "The consequences of poor planning can be severe."
+    },
+    {
+        "word": "preparation",
+        "phonetic": "/ˌprɛpəˈreɪʃən/",
+        "definition": "chuẩn bị",
+        "options": [
+            "chuẩn bị",
+            "kỹ năng",
+            "hỗ trợ",
+            "cải thiện"
+        ],
+        "example": "Preparation is crucial for a successful presentation."
+    },
+    {
+        "word": "evaluation",
+        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
+        "definition": "đánh giá",
+        "options": [
+            "đánh giá",
+            "chương trình",
+            "kế hoạch",
+            "đổi mới"
+        ],
+        "example": "The evaluation of student performance is essential for feedback."
+    },
+    {
+        "word": "cooperation",
+        "phonetic": "/koʊˌɒpəˈreɪʃən/",
+        "definition": "hợp tác",
+        "options": [
+            "hợp tác",
+            "thực hiện",
+            "đổi mới",
+            "tổ chức"
+        ],
+        "example": "Cooperation among team members leads to better results."
+    },
+    {
+        "word": "inspiration",
+        "phonetic": "/ˌɪnspəˈreɪʃən/",
+        "definition": "cảm hứng",
+        "options": [
+            "cảm hứng",
+            "thành công",
+            "kế hoạch",
+            "thời gian"
+        ],
+        "example": "Her speech was a great source of inspiration for many."
+    },
+    {
+        "word": "confirmation",
+        "phonetic": "/ˌkɒnfərˈmeɪʃən/",
+        "definition": "xác nhận",
+        "options": [
+            "xác nhận",
+            "kế hoạch",
+            "tình huống",
+            "đánh giá"
+        ],
+        "example": "The confirmation of the meeting time was received via email."
+    },
+    {
+        "word": "identification",
+        "phonetic": "/aɪˌdɛntɪfɪˈkeɪʃən/",
+        "definition": "xác định",
+        "options": [
+            "xác định",
+            "kế hoạch",
+            "cải thiện",
+            "thành công"
+        ],
+        "example": "The identification of the issue was the first step toward a solution."
+    },
+    {
+        "word": "improvement",
+        "phonetic": "/ɪmˈpruːvmənt/",
+        "definition": "cải tiến",
+        "options": [
+            "cải tiến",
+            "tình huống",
+            "phát triển",
+            "kế hoạch"
+        ],
+        "example": "Continuous improvement is vital for long-term success."
+    },
+    {
+        "word": "development",
+        "phonetic": "/dɪˈvɛləpmənt/",
+        "definition": "phát triển",
+        "options": [
+            "phát triển",
+            "hỗ trợ",
+            "cải tiến",
+            "động lực"
+        ],
+        "example": "The development of new technologies has transformed industries."
+    },
+    {
+        "word": "observation",
+        "phonetic": "/ˌɒbzərˈveɪʃən/",
+        "definition": "quan sát",
+        "options": [
+            "quan sát",
+            "hành động",
+            "đổi mới",
+            "tinh thần"
+        ],
+        "example": "Observation is key to understanding complex problems."
+    },
+    {
+        "word": "organization",
+        "phonetic": "/ˌɔːrɡənaɪˈzeɪʃən/",
+        "definition": "tổ chức",
+        "options": [
+            "tổ chức",
+            "cải tiến",
+            "kế hoạch",
+            "thực hiện"
+        ],
+        "example": "The organization of the event was flawless."
+    },
+    {
+        "word": "significance",
+        "phonetic": "/sɪɡˈnɪfɪkəns/",
+        "definition": "ý nghĩa",
+        "options": [
+            "ý nghĩa",
+            "tình huống",
+            "kế hoạch",
+            "đối tượng"
+        ],
+        "example": "The significance of this discovery cannot be overstated."
+    },
+    {
+        "word": "collaboration",
+        "phonetic": "/kəˌlæbəˈreɪʃən/",
+        "definition": "hợp tác",
+        "options": [
+            "hợp tác",
+            "phát triển",
+            "cải tiến",
+            "động lực"
+        ],
+        "example": "Effective collaboration leads to successful projects."
+    },
+    {
+        "word": "recognition",
+        "phonetic": "/ˌrɛkəɡˈnɪʃən/",
+        "definition": "nhận diện",
+        "options": [
+            "nhận diện",
+            "phát triển",
+            "đánh giá",
+            "hỗ trợ"
+        ],
+        "example": "Recognition of achievements boosts morale."
+    },
+    {
+        "word": "satisfaction",
+        "phonetic": "/ˌsætɪsˈfækʃən/",
+        "definition": "sự hài lòng",
+        "options": [
+            "sự hài lòng",
+            "tình huống",
+            "hỗ trợ",
+            "cải tiến"
+        ],
+        "example": "Customer satisfaction is a top priority for the company."
+    },
+    {
+        "word": "implementation",
+        "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
+        "definition": "thực hiện",
+        "options": [
+            "thực hiện",
+            "kế hoạch",
+            "cải tiến",
+            "thành công"
+        ],
+        "example": "The implementation of the project took longer than expected."
+    },
+    {
+        "word": "evaluation",
+        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
+        "definition": "đánh giá",
+        "options": [
+            "đánh giá",
+            "cải thiện",
+            "hỗ trợ",
+            "tình huống"
+        ],
+        "example": "Evaluation of the program showed positive outcomes."
+    },
+    {
+        "word": "realization",
+        "phonetic": "/ˌriːəlaɪˈzeɪʃən/",
+        "definition": "nhận thức",
+        "options": [
+            "nhận thức",
+            "hỗ trợ",
+            "cải thiện",
+            "động lực"
+        ],
+        "example": "Her realization of the importance of teamwork changed her approach."
     }
 ]
