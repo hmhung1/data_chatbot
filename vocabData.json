@@ -1,518 +1,194 @@
 [
     {
-        "word": "diligence",
-        "phonetic": "/ˈdɪlɪdʒəns/",
-        "definition": "chăm chỉ",
+        "word": "implementation",
+        "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
+        "definition": "sự thực hiện",
         "options": [
-            "lười biếng",
-            "chăm chỉ",
-            "lười nhác",
-            "cẩu thả"
+            "sự thực hiện",
+            "đối tượng",
+            "tình huống",
+            "sự tương tác"
         ],
-        "example": "Diligence is the mother of good luck."
+        "example": "The implementation of the new policy improved efficiency."
     },
     {
-        "word": "grace",
-        "phonetic": "/ɡreɪs/",
-        "definition": "duyên dáng",
+        "word": "significance",
+        "phonetic": "/sɪɡˈnɪfɪkəns/",
+        "definition": "tầm quan trọng",
         "options": [
-            "thô lỗ",
-            "duyên dáng",
-            "vụng về",
-            "thô kệch"
+            "tầm quan trọng",
+            "món quà",
+            "cảm giác",
+            "khó khăn"
         ],
-        "example": "She moved with grace and elegance."
+        "example": "The significance of the study cannot be understated."
     },
     {
-        "word": "creativity",
-        "phonetic": "/ˌkriːeɪˈtɪvɪti/",
-        "definition": "sáng tạo",
+        "word": "development",
+        "phonetic": "/dɪˈvɛləpmənt/",
+        "definition": "sự phát triển",
         "options": [
-            "bảo thủ",
-            "sáng tạo",
-            "khuôn mẫu",
-            "nhàm chán"
+            "sự phát triển",
+            "truyền cảm hứng",
+            "cách thức",
+            "sự tự tin"
         ],
-        "example": "His creativity led to a groundbreaking invention."
+        "example": "The development of the software took several months."
     },
     {
-        "word": "fortitude",
-        "phonetic": "/ˈfɔːtɪtjuːd/",
-        "definition": "kiên cường",
+        "word": "communication",
+        "phonetic": "/kəˌmjuːnɪˈkeɪʃən/",
+        "definition": "giao tiếp",
         "options": [
-            "yếu đuối",
-            "kiên cường",
-            "gục ngã",
-            "bỏ cuộc"
+            "giao tiếp",
+            "kỹ thuật",
+            "hành động",
+            "khó khăn"
         ],
-        "example": "She showed remarkable fortitude during the trial."
+        "example": "Effective communication is key to any successful relationship."
     },
     {
-        "word": "generosity",
-        "phonetic": "/ˌdʒɛnəˈrɒsɪti/",
-        "definition": "hào phóng",
+        "word": "collaboration",
+        "phonetic": "/kəˌlæbəˈreɪʃən/",
+        "definition": "sự hợp tác",
         "options": [
-            "keo kiệt",
-            "hào phóng",
-            "bủn xỉn",
-            "ích kỷ"
+            "sự hợp tác",
+            "thực hành",
+            "thành công",
+            "hành động"
         ],
-        "example": "His generosity was known to everyone in the town."
+        "example": "The collaboration between the teams led to innovative solutions."
     },
     {
-        "word": "tenacity",
-        "phonetic": "/tɪˈnæsɪti/",
-        "definition": "kiên trì",
+        "word": "achievement",
+        "phonetic": "/əˈtʃiːvmənt/",
+        "definition": "thành tựu",
         "options": [
-            "bỏ cuộc",
-            "kiên trì",
-            "dễ nản",
-            "nhụt chí"
+            "thành tựu",
+            "khó khăn",
+            "trách nhiệm",
+            "sự hỗ trợ"
         ],
-        "example": "Her tenacity helped her climb the ranks quickly."
+        "example": "Her achievement in winning the competition was celebrated."
     },
     {
-        "word": "optimism",
-        "phonetic": "/ˈɒptɪmɪzəm/",
-        "definition": "lạc quan",
+        "word": "evaluation",
+        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
+        "definition": "sự đánh giá",
         "options": [
-            "bi quan",
-            "lạc quan",
-            "thất vọng",
-            "lo âu"
+            "sự đánh giá",
+            "thành tựu",
+            "hợp tác",
+            "sự hỗ trợ"
         ],
-        "example": "His optimism made him believe in a brighter future."
+        "example": "The evaluation of the project revealed several areas for improvement."
     },
     {
-        "word": "kindness",
-        "phonetic": "/ˈkaɪndnəs/",
-        "definition": "tử tế",
+        "word": "implementation",
+        "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
+        "definition": "sự thực hiện",
         "options": [
-            "tàn nhẫn",
-            "tử tế",
-            "ích kỷ",
-            "độc ác"
+            "sự thực hiện",
+            "sự hỗ trợ",
+            "sự cản trở",
+            "thành công"
         ],
-        "example": "Kindness costs nothing but means everything."
+        "example": "The implementation of the plan was met with enthusiasm."
     },
     {
-        "word": "bravery",
-        "phonetic": "/ˈbreɪvəri/",
-        "definition": "dũng cảm",
+        "word": "recognition",
+        "phonetic": "/ˌrɛkəɡˈnɪʃən/",
+        "definition": "sự công nhận",
         "options": [
-            "hèn nhát",
-            "dũng cảm",
-            "sợ hãi",
-            "trốn chạy"
+            "sự công nhận",
+            "đáng tin cậy",
+            "địa lý",
+            "đầu tư"
         ],
-        "example": "Bravery is not the absence of fear, but the triumph over it."
+        "example": "She received recognition for her hard work and dedication."
     },
     {
-        "word": "humor",
-        "phonetic": "/ˈhjuːmər/",
-        "definition": "hài hước",
+        "word": "communication",
+        "phonetic": "/kəˌmjuːnɪˈkeɪʃən/",
+        "definition": "giao tiếp",
         "options": [
-            "khô khan",
-            "hài hước",
-            "nhàm chán",
-            "tẻ nhạt"
+            "giao tiếp",
+            "tình huống",
+            "khó khăn",
+            "sự giải trí"
         ],
-        "example": "His humor lightened the mood during tough times."
+        "example": "Good communication can prevent misunderstandings."
     },
     {
-        "word": "curiosity",
-        "phonetic": "/ˌkjʊərɪˈɒsɪti/",
-        "definition": "tò mò",
+        "word": "management",
+        "phonetic": "/ˈmænɪdʒmənt/",
+        "definition": "quản lý",
         "options": [
-            "thờ ơ",
-            "tò mò",
-            "lãnh đạm",
-            "dửng dưng"
+            "quản lý",
+            "sự tự do",
+            "công việc",
+            "sự trở ngại"
         ],
-        "example": "Her curiosity led her to discover new worlds."
+        "example": "Effective management is crucial for a successful business."
     },
     {
-        "word": "respect",
-        "phonetic": "/rɪˈspɛkt/",
-        "definition": "tôn trọng",
+        "word": "motivation",
+        "phonetic": "/ˌmoʊtɪˈveɪʃən/",
+        "definition": "động lực",
         "options": [
-            "coi thường",
-            "tôn trọng",
-            "khinh bỉ",
-            "chế nhạo"
+            "động lực",
+            "khó khăn",
+            "kỹ thuật",
+            "sự đánh giá"
         ],
-        "example": "Respect is earned, not demanded."
+        "example": "Her motivation to succeed inspired those around her."
     },
     {
-        "word": "resilience",
-        "phonetic": "/rɪˈzɪlɪəns/",
-        "definition": "bền bỉ",
+        "word": "innovation",
+        "phonetic": "/ˌɪnəˈveɪʃən/",
+        "definition": "sự đổi mới",
         "options": [
-            "mỏng manh",
-            "bền bỉ",
-            "yếu đuối",
-            "dễ vỡ"
+            "sự đổi mới",
+            "sự phân tích",
+            "sự cam kết",
+            "dự đoán"
         ],
-        "example": "His resilience helped him recover from setbacks."
+        "example": "Innovation is essential for staying competitive in the market."
     },
     {
-        "word": "tact",
-        "phonetic": "/tækt/",
-        "definition": "khéo léo",
+        "word": "contribution",
+        "phonetic": "/ˌkɒntrɪˈbjuːʃən/",
+        "definition": "sự đóng góp",
         "options": [
-            "thô thiển",
-            "khéo léo",
-            "vụng về",
-            "lỗ mãng"
+            "sự đóng góp",
+            "sự cam kết",
+            "hành động",
+            "khó khăn"
         ],
-        "example": "Tact is the art of making a point without making an enemy."
+        "example": "Her contribution to the project was invaluable."
     },
     {
-        "word": "ambition",
-        "phonetic": "/æmˈbɪʃən/",
-        "definition": "tham vọng",
+        "word": "evaluation",
+        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
+        "definition": "sự đánh giá",
         "options": [
-            "an phận",
-            "tham vọng",
-            "bằng lòng",
-            "bỏ cuộc"
+            "sự đánh giá",
+            "động lực",
+            "kỹ thuật",
+            "sự tự do"
         ],
-        "example": "His ambition drove him to achieve greatness."
+        "example": "The evaluation process is crucial for determining effectiveness."
     },
     {
-        "word": "gratitude",
-        "phonetic": "/ˈɡrætɪtjuːd/",
-        "definition": "biết ơn",
+        "word": "analysis",
+        "phonetic": "/əˈnæləsɪs/",
+        "definition": "phân tích",
         "options": [
-            "vô ơn",
-            "biết ơn",
-            "bất kính",
-            "khinh thường"
+            "phân tích",
+            "hành động",
+            "sự hỗ trợ",
+            "cảm xúc"
         ],
-        "example": "Gratitude turns what we have into enough."
-    },
-    {
-        "word": "vigilance",
-        "phonetic": "/ˈvɪdʒɪləns/",
-        "definition": "cảnh giác",
-        "options": [
-            "chủ quan",
-            "cảnh giác",
-            "bất cẩn",
-            "vô tư"
-        ],
-        "example": "Vigilance is the price of safety."
-    },
-    {
-        "word": "ambivalence",
-        "phonetic": "/æmˈbɪvələns/",
-        "definition": "mâu thuẫn",
-        "options": [
-            "rõ ràng",
-            "mâu thuẫn",
-            "chắc chắn",
-            "kiên quyết"
-        ],
-        "example": "Her ambivalence made decision-making difficult."
-    },
-    {
-        "word": "humbleness",
-        "phonetic": "/ˈhʌmblnɪs/",
-        "definition": "khiêm nhường",
-        "options": [
-            "kiêu căng",
-            "khiêm nhường",
-            "tự cao",
-            "hợm hĩnh"
-        ],
-        "example": "Humbleness often wins hearts."
-    },
-    {
-        "word": "assertiveness",
-        "phonetic": "/əˈsɜːtɪvnəs/",
-        "definition": "quả quyết",
-        "options": [
-            "rụt rè",
-            "quả quyết",
-            "do dự",
-            "thụ động"
-        ],
-        "example": "Assertiveness helps you stand your ground."
-    },
-    {
-        "word": "patience",
-        "phonetic": "/ˈpeɪʃəns/",
-        "definition": "kiên nhẫn",
-        "options": [
-            "nóng nảy",
-            "kiên nhẫn",
-            "vội vàng",
-            "bất cẩn"
-        ],
-        "example": "Patience is a virtue."
-    },
-    {
-        "word": "integrity",
-        "phonetic": "/ɪnˈtɛɡrɪti/",
-        "definition": "chính trực",
-        "options": [
-            "gian dối",
-            "chính trực",
-            "lừa đảo",
-            "thủ đoạn"
-        ],
-        "example": "Integrity is doing the right thing, even when no one is watching."
-    },
-    {
-        "word": "perseverance",
-        "phonetic": "/ˌpɜːsɪˈvɪərəns/",
-        "definition": "kiên trì",
-        "options": [
-            "chán nản",
-            "kiên trì",
-            "mất hy vọng",
-            "từ bỏ"
-        ],
-        "example": "Perseverance is the key to success."
-    },
-    {
-        "word": "wisdom",
-        "phonetic": "/ˈwɪzdəm/",
-        "definition": "trí tuệ",
-        "options": [
-            "ngớ ngẩn",
-            "trí tuệ",
-            "ngu dốt",
-            "thiếu suy nghĩ"
-        ],
-        "example": "Wisdom comes with age and experience."
-    },
-    {
-        "word": "loyalty",
-        "phonetic": "/ˈlɔɪəlti/",
-        "definition": "trung thành",
-        "options": [
-            "phản bội",
-            "trung thành",
-            "thất tín",
-            "bất trung"
-        ],
-        "example": "Loyalty is a rare and precious thing."
-    },
-    {
-        "word": "modesty",
-        "phonetic": "/ˈmɒdɪsti/",
-        "definition": "khiêm tốn",
-        "options": [
-            "khoe khoang",
-            "khiêm tốn",
-            "tự kiêu",
-            "tự mãn"
-        ],
-        "example": "Modesty is a sign of true greatness."
-    },
-    {
-        "word": "empathy",
-        "phonetic": "/ˈɛmpəθi/",
-        "definition": "đồng cảm",
-        "options": [
-            "thờ ơ",
-            "đồng cảm",
-            "vô tâm",
-            "lạnh lùng"
-        ],
-        "example": "Empathy allows us to understand others better."
-    },
-    {
-        "word": "compassion",
-        "phonetic": "/kəmˈpæʃən/",
-        "definition": "lòng trắc ẩn",
-        "options": [
-            "tàn nhẫn",
-            "lòng trắc ẩn",
-            "không cảm xúc",
-            "vô cảm"
-        ],
-        "example": "Compassion brings humanity closer together."
-    },
-    {
-        "word": "selflessness",
-        "phonetic": "/ˈsɛlfləsnəs/",
-        "definition": "vị tha",
-        "options": [
-            "ích kỷ",
-            "vị tha",
-            "tham lam",
-            "tư lợi"
-        ],
-        "example": "Selflessness is a true mark of leadership."
-    },
-    {
-        "word": "grit",
-        "phonetic": "/ɡrɪt/",
-        "definition": "sự bền bỉ",
-        "options": [
-            "dễ nản",
-            "sự bền bỉ",
-            "bỏ cuộc",
-            "sợ hãi"
-        ],
-        "example": "Grit is what keeps you going when times get tough."
-    },
-    {
-        "word": "honesty",
-        "phonetic": "/ˈɒnɪsti/",
-        "definition": "thành thật",
-        "options": [
-            "giả dối",
-            "thành thật",
-            "lừa gạt",
-            "giấu giếm"
-        ],
-        "example": "Honesty is the best policy."
-    },
-    {
-        "word": "clarity",
-        "phonetic": "/ˈklærɪti/",
-        "definition": "sự rõ ràng",
-        "options": [
-            "mơ hồ",
-            "sự rõ ràng",
-            "nhập nhằng",
-            "không rõ ràng"
-        ],
-        "example": "Clarity in communication prevents misunderstandings."
-    },
-    {
-        "word": "simplicity",
-        "phonetic": "/sɪmˈplɪsɪti/",
-        "definition": "đơn giản",
-        "options": [
-            "phức tạp",
-            "đơn giản",
-            "rối rắm",
-            "khó hiểu"
-        ],
-        "example": "Simplicity is the ultimate sophistication."
-    },
-    {
-        "word": "confidence",
-        "phonetic": "/ˈkɒnfɪdəns/",
-        "definition": "tự tin",
-        "options": [
-            "mặc cảm",
-            "tự tin",
-            "sợ sệt",
-            "rụt rè"
-        ],
-        "example": "Confidence comes from preparation."
-    },
-    {
-        "word": "humility",
-        "phonetic": "/hjuːˈmɪlɪti/",
-        "definition": "khiêm nhường",
-        "options": [
-            "tự cao",
-            "khiêm nhường",
-            "kiêu căng",
-            "hợm hĩnh"
-        ],
-        "example": "Humility is a quality admired by many."
-    },
-    {
-        "word": "focus",
-        "phonetic": "/ˈfəʊkəs/",
-        "definition": "tập trung",
-        "options": [
-            "phân tâm",
-            "tập trung",
-            "sao lãng",
-            "không tập trung"
-        ],
-        "example": "Focus is the key to achieving your goals."
-    },
-    {
-        "word": "flexibility",
-        "phonetic": "/ˌflɛksɪˈbɪlɪti/",
-        "definition": "linh hoạt",
-        "options": [
-            "cứng nhắc",
-            "linh hoạt",
-            "bảo thủ",
-            "khó thay đổi"
-        ],
-        "example": "Flexibility helps in adapting to change."
-    },
-    {
-        "word": "discipline",
-        "phonetic": "/ˈdɪsɪplɪn/",
-        "definition": "kỷ luật",
-        "options": [
-            "vô tổ chức",
-            "kỷ luật",
-            "tự phát",
-            "bừa bãi"
-        ],
-        "example": "Discipline is the foundation of all success."
-    },
-    {
-        "word": "enthusiasm",
-        "phonetic": "/ɪnˈθjuːzɪæzəm/",
-        "definition": "nhiệt huyết",
-        "options": [
-            "thờ ơ",
-            "nhiệt huyết",
-            "lạnh nhạt",
-            "dửng dưng"
-        ],
-        "example": "Enthusiasm drives you to pursue your passions."
-    },
-    {
-        "word": "humor",
-        "phonetic": "/ˈhjuːmə/",
-        "definition": "hài hước",
-        "options": [
-            "nghiêm trọng",
-            "hài hước",
-            "buồn tẻ",
-            "trầm lặng"
-        ],
-        "example": "Humor can brighten the darkest days."
-    },
-    {
-        "word": "perspective",
-        "phonetic": "/pəˈspɛktɪv/",
-        "definition": "quan điểm",
-        "options": [
-            "phiến diện",
-            "quan điểm",
-            "hạn hẹp",
-            "thiển cận"
-        ],
-        "example": "Perspective shapes how we see the world."
-    },
-    {
-        "word": "initiative",
-        "phonetic": "/ɪˈnɪʃɪətɪv/",
-        "definition": "sáng kiến",
-        "options": [
-            "bị động",
-            "sáng kiến",
-            "thụ động",
-            "phụ thuộc"
-        ],
-        "example": "Taking initiative sets you apart from others."
-    },
-    {
-        "word": "vision",
-        "phonetic": "/ˈvɪʒən/",
-        "definition": "tầm nhìn",
-        "options": [
-            "mù mờ",
-            "tầm nhìn",
-            "thiển cận",
-            "ngắn hạn"
-        ],
-        "example": "A clear vision inspires greatness."
+        "example": "The analysis of the data provided important insights."
     }
 ]
