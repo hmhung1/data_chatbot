@@ -1,1091 +1,518 @@
 [
     {
-        "word": "alternative",
-        "phonetic": "/ɔːlˈtɜːrnətɪv/",
-        "definition": "sự thay thế",
+        "word": "diligence",
+        "phonetic": "/ˈdɪlɪdʒəns/",
+        "definition": "chăm chỉ",
         "options": [
-            "thay thế",
-            "định kỳ",
-            "mê hoặc",
-            "sự hy sinh"
-        ]
+            "lười biếng",
+            "chăm chỉ",
+            "lười nhác",
+            "cẩu thả"
+        ],
+        "example": "Diligence is the mother of good luck."
     },
     {
-        "word": "evidence",
-        "phonetic": "/ˈɛvɪdəns/",
-        "definition": "bằng chứng",
+        "word": "grace",
+        "phonetic": "/ɡreɪs/",
+        "definition": "duyên dáng",
         "options": [
-            "sự khám phá",
-            "bằng chứng",
-            "lễ hội",
-            "giảng viên"
-        ]
+            "thô lỗ",
+            "duyên dáng",
+            "vụng về",
+            "thô kệch"
+        ],
+        "example": "She moved with grace and elegance."
     },
     {
-        "word": "contribution",
-        "phonetic": "/ˌkɒntrɪˈbjuːʃən/",
-        "definition": "sự đóng góp",
+        "word": "creativity",
+        "phonetic": "/ˌkriːeɪˈtɪvɪti/",
+        "definition": "sáng tạo",
         "options": [
-            "sự mỉa mai",
-            "sự đóng góp",
-            "sự tự tin",
-            "huyền thoại"
-        ]
-    },
-    {
-        "word": "consequence",
-        "phonetic": "/ˈkɒnsɪkwəns/",
-        "definition": "hậu quả",
-        "options": [
-            "đồ vật",
-            "nghệ thuật",
-            "hậu quả",
-            "sự hợp tác"
-        ]
-    },
-    {
-        "word": "significant",
-        "phonetic": "/sɪɡˈnɪfɪkənt/",
-        "definition": "quan trọng, đáng kể",
-        "options": [
-            "chạy bộ",
-            "quan trọng, đáng kể",
-            "thợ mộc",
-            "cơn bão"
-        ]
-    },
-    {
-        "word": "immediate",
-        "phonetic": "/ɪˈmiːdiət/",
-        "definition": "ngay lập tức",
-        "options": [
+            "bảo thủ",
             "sáng tạo",
-            "tạo dáng",
-            "ngay lập tức",
-            "trang điểm"
-        ]
+            "khuôn mẫu",
+            "nhàm chán"
+        ],
+        "example": "His creativity led to a groundbreaking invention."
     },
     {
-        "word": "ancient",
-        "phonetic": "/ˈeɪnʃənt/",
-        "definition": "cổ đại",
+        "word": "fortitude",
+        "phonetic": "/ˈfɔːtɪtjuːd/",
+        "definition": "kiên cường",
         "options": [
-            "nhảy múa",
-            "cổ đại",
-            "sức hấp dẫn",
-            "trang phục"
-        ]
+            "yếu đuối",
+            "kiên cường",
+            "gục ngã",
+            "bỏ cuộc"
+        ],
+        "example": "She showed remarkable fortitude during the trial."
     },
     {
-        "word": "potential",
-        "phonetic": "/pəˈtɛnʃəl/",
-        "definition": "tiềm năng",
+        "word": "generosity",
+        "phonetic": "/ˌdʒɛnəˈrɒsɪti/",
+        "definition": "hào phóng",
         "options": [
-            "xung đột",
-            "tiềm năng",
-            "lời than phiền",
-            "hồi phục"
-        ]
+            "keo kiệt",
+            "hào phóng",
+            "bủn xỉn",
+            "ích kỷ"
+        ],
+        "example": "His generosity was known to everyone in the town."
     },
     {
-        "word": "frequent",
-        "phonetic": "/ˈfriːkwənt/",
-        "definition": "thường xuyên",
+        "word": "tenacity",
+        "phonetic": "/tɪˈnæsɪti/",
+        "definition": "kiên trì",
         "options": [
-            "thường xuyên",
-            "cực kì",
-            "tàn bạo",
-            "nổi loạn"
-        ]
+            "bỏ cuộc",
+            "kiên trì",
+            "dễ nản",
+            "nhụt chí"
+        ],
+        "example": "Her tenacity helped her climb the ranks quickly."
     },
     {
-        "word": "environment",
-        "phonetic": "/ɪnˈvaɪrənmənt/",
-        "definition": "môi trường",
+        "word": "optimism",
+        "phonetic": "/ˈɒptɪmɪzəm/",
+        "definition": "lạc quan",
         "options": [
-            "môi trường",
-            "đồ cổ",
-            "biểu tượng",
-            "truyền cảm hứng"
-        ]
+            "bi quan",
+            "lạc quan",
+            "thất vọng",
+            "lo âu"
+        ],
+        "example": "His optimism made him believe in a brighter future."
     },
     {
-        "word": "fundamental",
-        "phonetic": "/ˌfʌndəˈmɛntl/",
-        "definition": "cơ bản",
+        "word": "kindness",
+        "phonetic": "/ˈkaɪndnəs/",
+        "definition": "tử tế",
         "options": [
-            "cơ bản",
-            "đặc biệt",
-            "ngẫu nhiên",
-            "phù hợp"
-        ]
+            "tàn nhẫn",
+            "tử tế",
+            "ích kỷ",
+            "độc ác"
+        ],
+        "example": "Kindness costs nothing but means everything."
     },
     {
-        "word": "community",
-        "phonetic": "/kəˈmjuːnɪti/",
-        "definition": "cộng đồng",
+        "word": "bravery",
+        "phonetic": "/ˈbreɪvəri/",
+        "definition": "dũng cảm",
         "options": [
-            "nhịp đập",
-            "thủ đô",
-            "cộng đồng",
-            "hệ mặt trời"
-        ]
+            "hèn nhát",
+            "dũng cảm",
+            "sợ hãi",
+            "trốn chạy"
+        ],
+        "example": "Bravery is not the absence of fear, but the triumph over it."
     },
     {
-        "word": "structure",
-        "phonetic": "/ˈstrʌkʧər/",
-        "definition": "kết cấu",
+        "word": "humor",
+        "phonetic": "/ˈhjuːmər/",
+        "definition": "hài hước",
         "options": [
-            "kết cấu",
-            "lễ hội",
-            "truyền thuyết",
-            "nhạc sĩ"
-        ]
+            "khô khan",
+            "hài hước",
+            "nhàm chán",
+            "tẻ nhạt"
+        ],
+        "example": "His humor lightened the mood during tough times."
     },
     {
-        "word": "independent",
-        "phonetic": "/ˌɪndɪˈpɛndənt/",
-        "definition": "độc lập",
+        "word": "curiosity",
+        "phonetic": "/ˌkjʊərɪˈɒsɪti/",
+        "definition": "tò mò",
         "options": [
-            "độc lập",
-            "đặc biệt",
-            "sáng chói",
-            "bóng tối"
-        ]
+            "thờ ơ",
+            "tò mò",
+            "lãnh đạm",
+            "dửng dưng"
+        ],
+        "example": "Her curiosity led her to discover new worlds."
     },
     {
-        "word": "philosophy",
-        "phonetic": "/fɪˈlɒsəfi/",
-        "definition": "triết học",
+        "word": "respect",
+        "phonetic": "/rɪˈspɛkt/",
+        "definition": "tôn trọng",
         "options": [
-            "thiên thần",
-            "triết học",
-            "đối thủ",
-            "địa hình"
-        ]
+            "coi thường",
+            "tôn trọng",
+            "khinh bỉ",
+            "chế nhạo"
+        ],
+        "example": "Respect is earned, not demanded."
     },
     {
-        "word": "economic",
-        "phonetic": "/ˌiːkəˈnɒmɪk/",
-        "definition": "kinh tế",
+        "word": "resilience",
+        "phonetic": "/rɪˈzɪlɪəns/",
+        "definition": "bền bỉ",
         "options": [
-            "kinh tế",
-            "hoang dã",
-            "thế giới ngầm",
-            "phong cảnh"
-        ]
+            "mỏng manh",
+            "bền bỉ",
+            "yếu đuối",
+            "dễ vỡ"
+        ],
+        "example": "His resilience helped him recover from setbacks."
     },
     {
-        "word": "interaction",
-        "phonetic": "/ˌɪntəˈrækʃən/",
-        "definition": "sự tương tác",
+        "word": "tact",
+        "phonetic": "/tækt/",
+        "definition": "khéo léo",
         "options": [
-            "kỳ lạ",
-            "tội phạm",
-            "sự tương tác",
-            "cuộc đua"
-        ]
+            "thô thiển",
+            "khéo léo",
+            "vụng về",
+            "lỗ mãng"
+        ],
+        "example": "Tact is the art of making a point without making an enemy."
     },
     {
-        "word": "visible",
-        "phonetic": "/ˈvɪzəbl/",
-        "definition": "có thể nhìn thấy",
+        "word": "ambition",
+        "phonetic": "/æmˈbɪʃən/",
+        "definition": "tham vọng",
+        "options": [
+            "an phận",
+            "tham vọng",
+            "bằng lòng",
+            "bỏ cuộc"
+        ],
+        "example": "His ambition drove him to achieve greatness."
+    },
+    {
+        "word": "gratitude",
+        "phonetic": "/ˈɡrætɪtjuːd/",
+        "definition": "biết ơn",
+        "options": [
+            "vô ơn",
+            "biết ơn",
+            "bất kính",
+            "khinh thường"
+        ],
+        "example": "Gratitude turns what we have into enough."
+    },
+    {
+        "word": "vigilance",
+        "phonetic": "/ˈvɪdʒɪləns/",
+        "definition": "cảnh giác",
+        "options": [
+            "chủ quan",
+            "cảnh giác",
+            "bất cẩn",
+            "vô tư"
+        ],
+        "example": "Vigilance is the price of safety."
+    },
+    {
+        "word": "ambivalence",
+        "phonetic": "/æmˈbɪvələns/",
+        "definition": "mâu thuẫn",
         "options": [
             "rõ ràng",
-            "có thể nhìn thấy",
-            "tương tự",
-            "sự thật"
-        ]
+            "mâu thuẫn",
+            "chắc chắn",
+            "kiên quyết"
+        ],
+        "example": "Her ambivalence made decision-making difficult."
     },
     {
-        "word": "progress",
-        "phonetic": "/ˈprəʊgrɛs/",
-        "definition": "sự tiến bộ",
+        "word": "humbleness",
+        "phonetic": "/ˈhʌmblnɪs/",
+        "definition": "khiêm nhường",
         "options": [
-            "sự tiến bộ",
-            "mạo hiểm",
-            "vũ khí",
-            "cây cối"
-        ]
+            "kiêu căng",
+            "khiêm nhường",
+            "tự cao",
+            "hợm hĩnh"
+        ],
+        "example": "Humbleness often wins hearts."
     },
     {
-        "word": "capacity",
-        "phonetic": "/kəˈpæsɪti/",
-        "definition": "sức chứa",
+        "word": "assertiveness",
+        "phonetic": "/əˈsɜːtɪvnəs/",
+        "definition": "quả quyết",
         "options": [
-            "sự cô lập",
-            "tài nguyên",
-            "sức chứa",
-            "chấn động"
-        ]
+            "rụt rè",
+            "quả quyết",
+            "do dự",
+            "thụ động"
+        ],
+        "example": "Assertiveness helps you stand your ground."
     },
     {
-        "word": "achievement",
-        "phonetic": "/əˈtʃiːvmənt/",
-        "definition": "thành tựu",
+        "word": "patience",
+        "phonetic": "/ˈpeɪʃəns/",
+        "definition": "kiên nhẫn",
         "options": [
-            "sự cố gắng",
-            "thành tựu",
-            "bất hạnh",
-            "lễ hội"
-        ]
+            "nóng nảy",
+            "kiên nhẫn",
+            "vội vàng",
+            "bất cẩn"
+        ],
+        "example": "Patience is a virtue."
     },
     {
-        "word": "development",
-        "phonetic": "/dɪˈvɛləpmənt/",
-        "definition": "sự phát triển",
+        "word": "integrity",
+        "phonetic": "/ɪnˈtɛɡrɪti/",
+        "definition": "chính trực",
         "options": [
-            "khám phá",
-            "sự phát triển",
-            "môi trường",
-            "nguy hiểm"
-        ]
+            "gian dối",
+            "chính trực",
+            "lừa đảo",
+            "thủ đoạn"
+        ],
+        "example": "Integrity is doing the right thing, even when no one is watching."
     },
     {
-        "word": "relationship",
-        "phonetic": "/rɪˈleɪʃənʃɪp/",
-        "definition": "mối quan hệ",
+        "word": "perseverance",
+        "phonetic": "/ˌpɜːsɪˈvɪərəns/",
+        "definition": "kiên trì",
         "options": [
-            "mối quan hệ",
-            "bằng chứng",
-            "thanh toán",
-            "nỗi buồn"
-        ]
+            "chán nản",
+            "kiên trì",
+            "mất hy vọng",
+            "từ bỏ"
+        ],
+        "example": "Perseverance is the key to success."
     },
     {
-        "word": "organization",
-        "phonetic": "/ˌɔːɡənaɪˈzeɪʃən/",
-        "definition": "tổ chức",
+        "word": "wisdom",
+        "phonetic": "/ˈwɪzdəm/",
+        "definition": "trí tuệ",
         "options": [
-            "tổ chức",
-            "lễ hội",
-            "khó khăn",
-            "đánh giá"
-        ]
+            "ngớ ngẩn",
+            "trí tuệ",
+            "ngu dốt",
+            "thiếu suy nghĩ"
+        ],
+        "example": "Wisdom comes with age and experience."
     },
     {
-        "word": "technology",
-        "phonetic": "/tɛkˈnɒlədʒi/",
-        "definition": "công nghệ",
+        "word": "loyalty",
+        "phonetic": "/ˈlɔɪəlti/",
+        "definition": "trung thành",
         "options": [
-            "công nghệ",
-            "cảm hứng",
-            "nghiên cứu",
-            "thành phố"
-        ]
+            "phản bội",
+            "trung thành",
+            "thất tín",
+            "bất trung"
+        ],
+        "example": "Loyalty is a rare and precious thing."
     },
     {
-        "word": "explanation",
-        "phonetic": "/ˌɛkspləˈneɪʃən/",
-        "definition": "giải thích",
+        "word": "modesty",
+        "phonetic": "/ˈmɒdɪsti/",
+        "definition": "khiêm tốn",
         "options": [
-            "giải thích",
-            "khiêu khích",
-            "sự kích thích",
-            "nơi nghỉ ngơi"
-        ]
+            "khoe khoang",
+            "khiêm tốn",
+            "tự kiêu",
+            "tự mãn"
+        ],
+        "example": "Modesty is a sign of true greatness."
     },
     {
-        "word": "solution",
-        "phonetic": "/səˈluːʃən/",
-        "definition": "giải pháp",
+        "word": "empathy",
+        "phonetic": "/ˈɛmpəθi/",
+        "definition": "đồng cảm",
         "options": [
-            "giải pháp",
+            "thờ ơ",
+            "đồng cảm",
+            "vô tâm",
+            "lạnh lùng"
+        ],
+        "example": "Empathy allows us to understand others better."
+    },
+    {
+        "word": "compassion",
+        "phonetic": "/kəmˈpæʃən/",
+        "definition": "lòng trắc ẩn",
+        "options": [
+            "tàn nhẫn",
+            "lòng trắc ẩn",
+            "không cảm xúc",
+            "vô cảm"
+        ],
+        "example": "Compassion brings humanity closer together."
+    },
+    {
+        "word": "selflessness",
+        "phonetic": "/ˈsɛlfləsnəs/",
+        "definition": "vị tha",
+        "options": [
+            "ích kỷ",
+            "vị tha",
+            "tham lam",
+            "tư lợi"
+        ],
+        "example": "Selflessness is a true mark of leadership."
+    },
+    {
+        "word": "grit",
+        "phonetic": "/ɡrɪt/",
+        "definition": "sự bền bỉ",
+        "options": [
+            "dễ nản",
+            "sự bền bỉ",
+            "bỏ cuộc",
+            "sợ hãi"
+        ],
+        "example": "Grit is what keeps you going when times get tough."
+    },
+    {
+        "word": "honesty",
+        "phonetic": "/ˈɒnɪsti/",
+        "definition": "thành thật",
+        "options": [
+            "giả dối",
+            "thành thật",
+            "lừa gạt",
+            "giấu giếm"
+        ],
+        "example": "Honesty is the best policy."
+    },
+    {
+        "word": "clarity",
+        "phonetic": "/ˈklærɪti/",
+        "definition": "sự rõ ràng",
+        "options": [
+            "mơ hồ",
+            "sự rõ ràng",
+            "nhập nhằng",
+            "không rõ ràng"
+        ],
+        "example": "Clarity in communication prevents misunderstandings."
+    },
+    {
+        "word": "simplicity",
+        "phonetic": "/sɪmˈplɪsɪti/",
+        "definition": "đơn giản",
+        "options": [
             "phức tạp",
-            "thân thiện",
-            "lỗi lầm"
-        ]
+            "đơn giản",
+            "rối rắm",
+            "khó hiểu"
+        ],
+        "example": "Simplicity is the ultimate sophistication."
     },
     {
-        "word": "contribution",
-        "phonetic": "/ˌkɒntrɪˈbjuːʃən/",
-        "definition": "sự đóng góp",
+        "word": "confidence",
+        "phonetic": "/ˈkɒnfɪdəns/",
+        "definition": "tự tin",
         "options": [
-            "sự cản trở",
-            "sự đóng góp",
-            "giấc mơ",
-            "chạy trốn"
-        ]
+            "mặc cảm",
+            "tự tin",
+            "sợ sệt",
+            "rụt rè"
+        ],
+        "example": "Confidence comes from preparation."
     },
     {
-        "word": "research",
-        "phonetic": "/rɪˈsɜːrtʃ/",
-        "definition": "nghiên cứu",
+        "word": "humility",
+        "phonetic": "/hjuːˈmɪlɪti/",
+        "definition": "khiêm nhường",
         "options": [
-            "thực hiện",
-            "nghiên cứu",
-            "bối rối",
-            "tổ chức"
-        ]
+            "tự cao",
+            "khiêm nhường",
+            "kiêu căng",
+            "hợm hĩnh"
+        ],
+        "example": "Humility is a quality admired by many."
     },
     {
-        "word": "conference",
-        "phonetic": "/ˈkɒnfərəns/",
-        "definition": "hội nghị",
+        "word": "focus",
+        "phonetic": "/ˈfəʊkəs/",
+        "definition": "tập trung",
         "options": [
-            "hội nghị",
-            "khó khăn",
-            "truyền cảm hứng",
-            "chất lượng"
-        ]
+            "phân tâm",
+            "tập trung",
+            "sao lãng",
+            "không tập trung"
+        ],
+        "example": "Focus is the key to achieving your goals."
     },
     {
-        "word": "strategy",
-        "phonetic": "/ˈstrætədʒi/",
-        "definition": "chiến lược",
+        "word": "flexibility",
+        "phonetic": "/ˌflɛksɪˈbɪlɪti/",
+        "definition": "linh hoạt",
         "options": [
-            "chiến lược",
-            "nổi bật",
-            "nỗi buồn",
-            "tình yêu"
-        ]
+            "cứng nhắc",
+            "linh hoạt",
+            "bảo thủ",
+            "khó thay đổi"
+        ],
+        "example": "Flexibility helps in adapting to change."
     },
     {
-        "word": "analysis",
-        "phonetic": "/əˈnæləsɪs/",
-        "definition": "phân tích",
+        "word": "discipline",
+        "phonetic": "/ˈdɪsɪplɪn/",
+        "definition": "kỷ luật",
         "options": [
-            "phân tích",
-            "thể loại",
-            "chắc chắn",
-            "khó khăn"
-        ]
+            "vô tổ chức",
+            "kỷ luật",
+            "tự phát",
+            "bừa bãi"
+        ],
+        "example": "Discipline is the foundation of all success."
     },
     {
-        "word": "majority",
-        "phonetic": "/məˈdʒɔːrɪti/",
-        "definition": "đa số",
+        "word": "enthusiasm",
+        "phonetic": "/ɪnˈθjuːzɪæzəm/",
+        "definition": "nhiệt huyết",
         "options": [
-            "độ tuổi",
-            "đa số",
-            "nỗ lực",
-            "sự cân bằng"
-        ]
+            "thờ ơ",
+            "nhiệt huyết",
+            "lạnh nhạt",
+            "dửng dưng"
+        ],
+        "example": "Enthusiasm drives you to pursue your passions."
     },
     {
-        "word": "commitment",
-        "phonetic": "/kəˈmɪtmənt/",
-        "definition": "cam kết",
+        "word": "humor",
+        "phonetic": "/ˈhjuːmə/",
+        "definition": "hài hước",
         "options": [
-            "sự can đảm",
-            "sự cam kết",
-            "cảm xúc",
-            "trở ngại"
-        ]
-    },
-    {
-        "word": "investment",
-        "phonetic": "/ɪnˈvɛstmənt/",
-        "definition": "đầu tư",
-        "options": [
-            "đầu tư",
-            "món quà",
-            "mô hình",
-            "khó khăn"
-        ]
-    },
-    {
-        "word": "behavior",
-        "phonetic": "/bɪˈheɪvjər/",
-        "definition": "hành vi",
-        "options": [
-            "hành vi",
-            "tính cách",
-            "nguy hiểm",
-            "bình tĩnh"
-        ]
-    },
-    {
-        "word": "situation",
-        "phonetic": "/ˌsɪtʃuˈeɪʃən/",
-        "definition": "tình huống",
-        "options": [
-            "tình huống",
-            "dự đoán",
-            "nổi bật",
-            "kết quả"
-        ]
-    },
-    {
-        "word": "consciousness",
-        "phonetic": "/ˈkɒnʃəsnəs/",
-        "definition": "ý thức",
-        "options": [
-            "thành công",
-            "ý thức",
-            "sự hỗ trợ",
-            "hành động"
-        ]
-    },
-    {
-        "word": "opportunity",
-        "phonetic": "/ˌɒpəˈtjuːnɪti/",
-        "definition": "cơ hội",
-        "options": [
-            "hệ thống",
-            "cơ hội",
-            "trách nhiệm",
-            "tình cảm"
-        ]
-    },
-    {
-        "word": "equality",
-        "phonetic": "/ɪˈkwɒləti/",
-        "definition": "bình đẳng",
-        "options": [
-            "bình đẳng",
-            "sự ra đời",
-            "hành động",
-            "sự đổi mới"
-        ]
+            "nghiêm trọng",
+            "hài hước",
+            "buồn tẻ",
+            "trầm lặng"
+        ],
+        "example": "Humor can brighten the darkest days."
     },
     {
         "word": "perspective",
-        "phonetic": "/pərˈspɛktɪv/",
-        "definition": "góc nhìn",
+        "phonetic": "/pəˈspɛktɪv/",
+        "definition": "quan điểm",
         "options": [
-            "góc nhìn",
-            "khó khăn",
-            "khám phá",
-            "tình yêu"
-        ]
+            "phiến diện",
+            "quan điểm",
+            "hạn hẹp",
+            "thiển cận"
+        ],
+        "example": "Perspective shapes how we see the world."
     },
     {
-        "word": "environmental",
-        "phonetic": "/ɪnˌvaɪrənˈmɛntəl/",
-        "definition": "thuộc về môi trường",
+        "word": "initiative",
+        "phonetic": "/ɪˈnɪʃɪətɪv/",
+        "definition": "sáng kiến",
         "options": [
-            "thuộc về môi trường",
-            "độc quyền",
-            "trái ngược",
-            "dễ dàng"
-        ]
+            "bị động",
+            "sáng kiến",
+            "thụ động",
+            "phụ thuộc"
+        ],
+        "example": "Taking initiative sets you apart from others."
     },
     {
-        "word": "responsibility",
-        "phonetic": "/rɪˌspɒnsəˈbɪləti/",
-        "definition": "trách nhiệm",
+        "word": "vision",
+        "phonetic": "/ˈvɪʒən/",
+        "definition": "tầm nhìn",
         "options": [
-            "trách nhiệm",
-            "thế giới",
-            "địa lý",
-            "kỹ thuật"
-        ]
-    },
-    {
-        "word": "convenience",
-        "phonetic": "/kənˈviːniəns/",
-        "definition": "sự tiện lợi",
-        "options": [
-            "sự tiện lợi",
-            "sự chờ đợi",
-            "món quà",
-            "hội chứng"
-        ]
-    },
-    {
-        "word": "frequency",
-        "phonetic": "/ˈfriːkwənsi/",
-        "definition": "tần suất",
-        "options": [
-            "tần suất",
-            "năm",
-            "thời gian",
-            "cảm xúc"
-        ]
-    },
-    {
-        "word": "knowledge",
-        "phonetic": "/ˈnɒlɪdʒ/",
-        "definition": "kiến thức",
-        "options": [
-            "thông tin",
-            "kiến thức",
-            "dễ dàng",
-            "nhân cách"
-        ]
-    },
-    {
-        "word": "preference",
-        "phonetic": "/ˈprɛfərəns/",
-        "definition": "sở thích",
-        "options": [
-            "sở thích",
-            "tài liệu",
-            "giải trí",
-            "nơi nghỉ ngơi"
-        ]
-    },
-    {
-        "word": "perception",
-        "phonetic": "/pərˈsɛpʃən/",
-        "definition": "nhận thức",
-        "options": [
-            "nhận thức",
-            "thân thiết",
-            "kỹ thuật",
-            "sự thay đổi"
-        ]
-    },
-    {
-        "word": "discussion",
-        "phonetic": "/dɪsˈkʌʃən/",
-        "definition": "cuộc thảo luận",
-        "options": [
-            "cuộc thảo luận",
-            "khó khăn",
-            "hợp tác",
-            "thực tế"
-        ]
-    },
-    {
-        "word": "conclusion",
-        "phonetic": "/kənˈkluːʒən/",
-        "definition": "kết luận",
-        "options": [
-            "kết luận",
-            "cơ hội",
-            "tình huống",
-            "sự thành công"
-        ]
-    },
-    {
-        "word": "promotion",
-        "phonetic": "/prəˈmoʊʃən/",
-        "definition": "sự thăng tiến",
-        "options": [
-            "sự thăng tiến",
-            "hành động",
-            "thẩm mỹ",
-            "tổ chức"
-        ]
-    },
-    {
-        "word": "recognition",
-        "phonetic": "/ˌrɛkəɡˈnɪʃən/",
-        "definition": "sự công nhận",
-        "options": [
-            "sự công nhận",
-            "cảm xúc",
-            "khả năng",
-            "sự thay đổi"
-        ]
-    },
-    {
-        "word": "innovation",
-        "phonetic": "/ˌɪnəˈveɪʃən/",
-        "definition": "sự đổi mới",
-        "options": [
-            "sự đổi mới",
-            "nghi thức",
-            "thời kỳ",
-            "sự tự tin"
-        ]
-    },
-    {
-        "word": "evaluation",
-        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
-        "definition": "sự đánh giá",
-        "options": [
-            "sự đánh giá",
-            "hành động",
-            "sự hồi phục",
-            "sự hỗ trợ"
-        ]
-    },
-    {
-        "word": "implementation",
-        "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
-        "definition": "sự thực hiện",
-        "options": [
-            "sự thực hiện",
-            "nhiệm vụ",
-            "thế giới",
-            "nhà quản lý"
-        ]
-    },
-    {
-        "word": "guideline",
-        "phonetic": "/ˈɡaɪdlaɪn/",
-        "definition": "hướng dẫn",
-        "options": [
-            "hướng dẫn",
-            "phương pháp",
-            "bản thân",
-            "sự phát triển"
-        ]
-    },
-    {
-        "word": "contribution",
-        "phonetic": "/ˌkɒntrɪˈbjuːʃən/",
-        "definition": "sự đóng góp",
-        "options": [
-            "sự cản trở",
-            "sự đóng góp",
-            "giấc mơ",
-            "chạy trốn"
-        ]
-    },
-    {
-        "word": "research",
-        "phonetic": "/rɪˈsɜːrtʃ/",
-        "definition": "nghiên cứu",
-        "options": [
-            "thực hiện",
-            "nghiên cứu",
-            "bối rối",
-            "tổ chức"
-        ]
-    },
-    {
-        "word": "conference",
-        "phonetic": "/ˈkɒnfərəns/",
-        "definition": "hội nghị",
-        "options": [
-            "hội nghị",
-            "khó khăn",
-            "truyền cảm hứng",
-            "chất lượng"
-        ]
-    },
-    {
-        "word": "strategy",
-        "phonetic": "/ˈstrætədʒi/",
-        "definition": "chiến lược",
-        "options": [
-            "chiến lược",
-            "nổi bật",
-            "nỗi buồn",
-            "tình yêu"
-        ]
-    },
-    {
-        "word": "analysis",
-        "phonetic": "/əˈnæləsɪs/",
-        "definition": "phân tích",
-        "options": [
-            "phân tích",
-            "thể loại",
-            "chắc chắn",
-            "khó khăn"
-        ]
-    },
-    {
-        "word": "majority",
-        "phonetic": "/məˈdʒɔːrɪti/",
-        "definition": "đa số",
-        "options": [
-            "độ tuổi",
-            "đa số",
-            "nỗ lực",
-            "sự cân bằng"
-        ]
-    },
-    {
-        "word": "commitment",
-        "phonetic": "/kəˈmɪtmənt/",
-        "definition": "cam kết",
-        "options": [
-            "sự can đảm",
-            "sự cam kết",
-            "cảm xúc",
-            "trở ngại"
-        ]
-    },
-    {
-        "word": "investment",
-        "phonetic": "/ɪnˈvɛstmənt/",
-        "definition": "đầu tư",
-        "options": [
-            "sự đầu tư",
-            "món quà",
-            "mô hình",
-            "khó khăn"
-        ]
-    },
-    {
-        "word": "behavior",
-        "phonetic": "/bɪˈheɪvjər/",
-        "definition": "hành vi",
-        "options": [
-            "hành vi",
-            "tính cách",
-            "nguy hiểm",
-            "bình tĩnh"
-        ]
-    },
-    {
-        "word": "situation",
-        "phonetic": "/ˌsɪtʃuˈeɪʃən/",
-        "definition": "tình huống",
-        "options": [
-            "tình huống",
-            "dự đoán",
-            "nổi bật",
-            "kết quả"
-        ]
-    },
-    {
-        "word": "consciousness",
-        "phonetic": "/ˈkɒnʃəsnəs/",
-        "definition": "ý thức",
-        "options": [
-            "thành công",
-            "ý thức",
-            "sự hỗ trợ",
-            "hành động"
-        ]
-    },
-    {
-        "word": "opportunity",
-        "phonetic": "/ˌɒpəˈtjuːnɪti/",
-        "definition": "cơ hội",
-        "options": [
-            "hệ thống",
-            "cơ hội",
-            "trách nhiệm",
-            "tình cảm"
-        ]
-    },
-    {
-        "word": "equality",
-        "phonetic": "/ɪˈkwɒləti/",
-        "definition": "bình đẳng",
-        "options": [
-            "bình đẳng",
-            "sự ra đời",
-            "hành động",
-            "sự đổi mới"
-        ]
-    },
-    {
-        "word": "perspective",
-        "phonetic": "/pərˈspɛktɪv/",
-        "definition": "góc nhìn",
-        "options": [
-            "góc nhìn",
-            "khó khăn",
-            "khám phá",
-            "tình yêu"
-        ]
-    },
-    {
-        "word": "environmental",
-        "phonetic": "/ɪnˌvaɪrənˈmɛntəl/",
-        "definition": "thuộc về môi trường",
-        "options": [
-            "thuộc về môi trường",
-            "độc quyền",
-            "trái ngược",
-            "dễ dàng"
-        ]
-    },
-    {
-        "word": "responsibility",
-        "phonetic": "/rɪˌspɒnsəˈbɪləti/",
-        "definition": "trách nhiệm",
-        "options": [
-            "trách nhiệm",
-            "thế giới",
-            "địa lý",
-            "kỹ thuật"
-        ]
-    },
-    {
-        "word": "convenience",
-        "phonetic": "/kənˈviːniəns/",
-        "definition": "sự tiện lợi",
-        "options": [
-            "sự tiện lợi",
-            "sự chờ đợi",
-            "món quà",
-            "hội chứng"
-        ]
-    },
-    {
-        "word": "frequency",
-        "phonetic": "/ˈfriːkwənsi/",
-        "definition": "tần suất",
-        "options": [
-            "tần suất",
-            "năm",
-            "thời gian",
-            "cảm xúc"
-        ]
-    },
-    {
-        "word": "knowledge",
-        "phonetic": "/ˈnɒlɪdʒ/",
-        "definition": "kiến thức",
-        "options": [
-            "thông tin",
-            "kiến thức",
-            "dễ dàng",
-            "nhân cách"
-        ]
-    },
-    {
-        "word": "preference",
-        "phonetic": "/ˈprɛfərəns/",
-        "definition": "sở thích",
-        "options": [
-            "sở thích",
-            "tài liệu",
-            "giải trí",
-            "nơi nghỉ ngơi"
-        ]
-    },
-    {
-        "word": "perception",
-        "phonetic": "/pərˈsɛpʃən/",
-        "definition": "nhận thức",
-        "options": [
-            "nhận thức",
-            "thân thiết",
-            "kỹ thuật",
-            "sự thay đổi"
-        ]
-    },
-    {
-        "word": "discussion",
-        "phonetic": "/dɪsˈkʌʃən/",
-        "definition": "cuộc thảo luận",
-        "options": [
-            "cuộc thảo luận",
-            "khó khăn",
-            "hợp tác",
-            "thực tế"
-        ]
-    },
-    {
-        "word": "conclusion",
-        "phonetic": "/kənˈkluːʒən/",
-        "definition": "kết luận",
-        "options": [
-            "kết luận",
-            "cơ hội",
-            "tình huống",
-            "sự thành công"
-        ]
-    },
-    {
-        "word": "promotion",
-        "phonetic": "/prəˈmoʊʃən/",
-        "definition": "sự thăng tiến",
-        "options": [
-            "sự thăng tiến",
-            "hành động",
-            "thẩm mỹ",
-            "tổ chức"
-        ]
-    },
-    {
-        "word": "recognition",
-        "phonetic": "/ˌrɛkəɡˈnɪʃən/",
-        "definition": "sự công nhận",
-        "options": [
-            "sự công nhận",
-            "cảm xúc",
-            "khả năng",
-            "sự thay đổi"
-        ]
-    },
-    {
-        "word": "innovation",
-        "phonetic": "/ˌɪnəˈveɪʃən/",
-        "definition": "sự đổi mới",
-        "options": [
-            "sự đổi mới",
-            "nghi thức",
-            "thời kỳ",
-            "sự tự tin"
-        ]
-    },
-    {
-        "word": "evaluation",
-        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
-        "definition": "sự đánh giá",
-        "options": [
-            "sự đánh giá",
-            "hành động",
-            "sự hồi phục",
-            "sự hỗ trợ"
-        ]
-    },
-    {
-        "word": "implementation",
-        "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
-        "definition": "sự thực hiện",
-        "options": [
-            "sự thực hiện",
-            "đối tượng",
-            "tình huống",
-            "sự tương tác"
-        ]
-    },
-    {
-        "word": "significance",
-        "phonetic": "/sɪɡˈnɪfɪkəns/",
-        "definition": "tầm quan trọng",
-        "options": [
-            "tầm quan trọng",
-            "món quà",
-            "cảm giác",
-            "khó khăn"
-        ]
-    },
-    {
-        "word": "development",
-        "phonetic": "/dɪˈvɛləpmənt/",
-        "definition": "sự phát triển",
-        "options": [
-            "sự phát triển",
-            "truyền cảm hứng",
-            "cách thức",
-            "sự tự tin"
-        ]
-    },
-    {
-        "word": "communication",
-        "phonetic": "/kəˌmjuːnɪˈkeɪʃən/",
-        "definition": "giao tiếp",
-        "options": [
-            "giao tiếp",
-            "kỹ thuật",
-            "hành động",
-            "khó khăn"
-        ]
-    },
-    {
-        "word": "collaboration",
-        "phonetic": "/kəˌlæbəˈreɪʃən/",
-        "definition": "sự hợp tác",
-        "options": [
-            "sự hợp tác",
-            "thực hành",
-            "thành công",
-            "hành động"
-        ]
-    },
-    {
-        "word": "achievement",
-        "phonetic": "/əˈtʃiːvmənt/",
-        "definition": "thành tựu",
-        "options": [
-            "thành tựu",
-            "khó khăn",
-            "trách nhiệm",
-            "sự hỗ trợ"
-        ]
-    },
-    {
-        "word": "evaluation",
-        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
-        "definition": "sự đánh giá",
-        "options": [
-            "sự đánh giá",
-            "thành tựu",
-            "hợp tác",
-            "sự hỗ trợ"
-        ]
-    },
-    {
-        "word": "implementation",
-        "phonetic": "/ˌɪmplɪmɛnˈteɪʃən/",
-        "definition": "sự thực hiện",
-        "options": [
-            "sự thực hiện",
-            "sự hỗ trợ",
-            "sự cản trở",
-            "thành công"
-        ]
-    },
-    {
-        "word": "recognition",
-        "phonetic": "/ˌrɛkəɡˈnɪʃən/",
-        "definition": "sự công nhận",
-        "options": [
-            "sự công nhận",
-            "đáng tin cậy",
-            "địa lý",
-            "đầu tư"
-        ]
-    },
-    {
-        "word": "communication",
-        "phonetic": "/kəˌmjuːnɪˈkeɪʃən/",
-        "definition": "giao tiếp",
-        "options": [
-            "giao tiếp",
-            "tình huống",
-            "khó khăn",
-            "sự giải trí"
-        ]
-    },
-    {
-        "word": "management",
-        "phonetic": "/ˈmænɪdʒmənt/",
-        "definition": "quản lý",
-        "options": [
-            "quản lý",
-            "sự tự do",
-            "công việc",
-            "sự trở ngại"
-        ]
-    },
-    {
-        "word": "motivation",
-        "phonetic": "/ˌmoʊtɪˈveɪʃən/",
-        "definition": "động lực",
-        "options": [
-            "động lực",
-            "khó khăn",
-            "kỹ thuật",
-            "sự đánh giá"
-        ]
-    },
-    {
-        "word": "innovation",
-        "phonetic": "/ˌɪnəˈveɪʃən/",
-        "definition": "sự đổi mới",
-        "options": [
-            "sự đổi mới",
-            "sự phân tích",
-            "sự cam kết",
-            "dự đoán"
-        ]
-    },
-    {
-        "word": "contribution",
-        "phonetic": "/ˌkɒntrɪˈbjuːʃən/",
-        "definition": "sự đóng góp",
-        "options": [
-            "sự đóng góp",
-            "sự cam kết",
-            "hành động",
-            "khó khăn"
-        ]
-    },
-    {
-        "word": "evaluation",
-        "phonetic": "/ɪˌvæljʊˈeɪʃən/",
-        "definition": "sự đánh giá",
-        "options": [
-            "sự đánh giá",
-            "động lực",
-            "kỹ thuật",
-            "sự tự do"
-        ]
-    },
-    {
-        "word": "analysis",
-        "phonetic": "/əˈnæləsɪs/",
-        "definition": "phân tích",
-        "options": [
-            "phân tích",
-            "hành động",
-            "sự hỗ trợ",
-            "cảm xúc"
-        ]
+            "mù mờ",
+            "tầm nhìn",
+            "thiển cận",
+            "ngắn hạn"
+        ],
+        "example": "A clear vision inspires greatness."
     }
 ]
